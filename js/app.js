@@ -227,6 +227,26 @@ document.addEventListener('DOMContentLoaded', () => {
               ${athlete.summary}
             </p>
 
+            ${athlete.critique?.summaryVerdict ? `
+            <div class="card-verdict-box">
+              <strong>専門家・メディア分析</strong>
+              ${athlete.critique.summaryVerdict}
+            </div>
+            ` : ''}
+
+            ${(athlete.snsAccounts && athlete.snsAccounts.length > 0) ? `
+            <div class="card-mini-sns">
+              ${athlete.snsAccounts.map(s => {
+                let cls = 'official';
+                let icon = '🌐';
+                if (s.platform.includes('Instagram')) { cls = 'instagram'; icon = '📷'; }
+                else if (s.platform.includes('X')) { cls = 'x'; icon = '𝕏'; }
+                else if (s.platform.includes('YouTube')) { cls = 'youtube'; icon = '▶️'; }
+                return `<a href="${s.url}" target="_blank" rel="noopener noreferrer" class="mini-sns-link ${cls}" title="${s.platform}: ${s.handle}" onclick="event.stopPropagation();">${icon}</a>`;
+              }).join('')}
+            </div>
+            ` : ''}
+
             <div class="card-footer-actions">
               <a href="athletes/${athlete.id}.html" class="btn-detail" title="${athlete.name}の詳細ページを見る">
                 <span>詳細プロフィール</span> <span>➔</span>
@@ -315,13 +335,36 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       </div>
       
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
+        ${(athlete.snsAccounts || []).map(s => {
+          let bg = 'rgba(255,255,255,0.08)';
+          if (s.platform.includes('Instagram')) bg = 'linear-gradient(45deg, #f09433, #dc2743, #bc1888)';
+          else if (s.platform.includes('X')) bg = '#000';
+          else if (s.platform.includes('YouTube')) bg = '#c4302b';
+          return `<a href="${s.url}" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 700; color: #fff; background: ${bg}; border: 1px solid var(--color-border); text-decoration: none;">
+            ${s.platform}: ${s.handle}
+          </a>`;
+        }).join('')}
+      </div>
+
       <div style="background: rgba(0,0,0,0.3); padding: 14px; border-radius: 8px; margin-bottom: 16px; border-left: 3px solid var(--color-gold);">
         <p style="font-size: 0.95rem; font-weight: 700; color: #fff;">${athlete.catchphrase}</p>
       </div>
 
-      <p style="font-size: 0.9rem; color: var(--color-text-muted); line-height: 1.7; margin-bottom: 20px;">
+      <p style="font-size: 0.9rem; color: var(--color-text-muted); line-height: 1.7; margin-bottom: 16px;">
         ${athlete.detailedProfile.bio}
       </p>
+
+      ${athlete.critique ? `
+      <div style="background: rgba(255,255,255,0.03); border: 1px solid var(--color-border); border-radius: 8px; padding: 14px; margin-bottom: 20px;">
+        <div style="font-size: 0.8rem; font-weight: 800; color: var(--color-gold-light); margin-bottom: 8px;">🧐 専門家・メディアによる客観的批評</div>
+        <p style="font-size: 0.82rem; color: #d1d5db; line-height: 1.5; margin-bottom: 8px;"><strong style="color: #4ade80;">[評価]</strong> ${athlete.critique.positive}</p>
+        <p style="font-size: 0.82rem; color: #d1d5db; line-height: 1.5; margin-bottom: 8px;"><strong style="color: #fb923c;">[課題]</strong> ${athlete.critique.critical}</p>
+        <div style="font-size: 0.72rem; color: var(--color-text-muted); border-top: 1px solid var(--color-border); padding-top: 6px;">
+          <span>出典: ${athlete.critique.positiveSource} / ${athlete.critique.criticalSource}</span>
+        </div>
+      </div>
+      ` : ''}
 
       <div style="display: flex; gap: 12px;">
         <a href="athletes/${athlete.id}.html" class="btn-detail" style="text-align: center; justify-content: center; width: 100%;">

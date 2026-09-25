@@ -33,13 +33,73 @@ ATHLETES.forEach((athlete, index) => {
     </a>
   `).join('');
 
+  const snsHtml = (athlete.snsAccounts || []).map(s => {
+    let platformClass = 'sns-official';
+    let icon = '🌐';
+    if (s.platform.includes('Instagram')) { platformClass = 'sns-instagram'; icon = '📷'; }
+    else if (s.platform.includes('X')) { platformClass = 'sns-x'; icon = '𝕏'; }
+    else if (s.platform.includes('YouTube')) { platformClass = 'sns-youtube'; icon = '▶️'; }
+    return `<a href="${s.url}" target="_blank" rel="noopener noreferrer" class="sns-chip-link ${platformClass}" title="${athlete.name}公式 ${s.platform}">
+      <span>${icon}</span>
+      <span>${s.platform}: ${s.handle}</span>
+    </a>`;
+  }).join('');
+
+  const c = athlete.critique;
+  const critiqueHtml = c ? `
+        <!-- 専門家・メディアによる客観的批評 -->
+        <section class="section-block">
+          <h2 class="section-header-title">
+            <span class="sec-icon">🧐</span>
+            <span>専門家・メディアによる客観的分析・批評</span>
+          </h2>
+          <div class="critique-container">
+            ${c.summaryVerdict ? `
+            <div class="verdict-banner">
+              <span class="verdict-tag">総合評価・展望</span>
+              <p class="verdict-text">${c.summaryVerdict}</p>
+            </div>
+            ` : ''}
+            <div class="critique-grid">
+              <div class="critique-card positive">
+                <div class="critique-header">
+                  <div class="critique-title">
+                    <span>✨</span>
+                    <span>強み・世界トップ水準の評価</span>
+                  </div>
+                </div>
+                <p class="critique-body">${c.positive}</p>
+                <div class="critique-source-box">
+                  <span class="source-label">出典・ソース:</span>
+                  <span>${c.positiveSource}</span>
+                </div>
+              </div>
+
+              <div class="critique-card critical">
+                <div class="critique-header">
+                  <div class="critique-title">
+                    <span>⚠️</span>
+                    <span>課題・懸念される客観的事実</span>
+                  </div>
+                </div>
+                <p class="critique-body">${c.critical}</p>
+                <div class="critique-source-box">
+                  <span class="source-label">出典・ソース:</span>
+                  <span>${c.criticalSource}</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+  ` : '';
+
   const html = `<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${athlete.name}（${athlete.sport}・${athlete.event}）| 2026年愛知・名古屋アジア大会 日本代表選手名鑑</title>
-  <meta name="description" content="第20回アジア競技大会（愛知・名古屋2026）日本代表、${athlete.name}選手の詳細プロフィール、戦績、プレイスタイル、意気込み、競技日程。">
+  <meta name="description" content="第20回アジア競技大会（愛知・名古屋2026）日本代表、${athlete.name}選手の詳細プロフィール、戦績、プレイスタイル、客観的批評・ソース、SNSアカウント、競技日程。">
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -118,6 +178,13 @@ ATHLETES.forEach((athlete, index) => {
           <div class="detail-catchphrase-box">
             ${athlete.catchphrase}
           </div>
+
+          ${snsHtml ? `
+          <!-- 公式SNSアカウント -->
+          <div class="athlete-sns-row">
+            ${snsHtml}
+          </div>
+          ` : ''}
         </div>
       </section>
 
@@ -177,6 +244,8 @@ ATHLETES.forEach((athlete, index) => {
           </p>
         </section>
 
+        ${critiqueHtml}
+
         <!-- 2026年愛知・名古屋大会への意気込み -->
         <section class="section-block">
           <h2 class="section-header-title">
@@ -211,7 +280,7 @@ ATHLETES.forEach((athlete, index) => {
         <section class="section-block">
           <h2 class="section-header-title">
             <span class="sec-icon">🌐</span>
-            <span>公式情報・SNSリンク</span>
+            <span>関連情報・外部リンク</span>
           </h2>
           <div class="links-flex-wrap">
             ${linksHtml}
@@ -255,4 +324,4 @@ ATHLETES.forEach((athlete, index) => {
   fs.writeFileSync(path.join(outDir, `${athlete.id}.html`), html, 'utf-8');
 });
 
-console.log(`Generated ${ATHLETES.length} athlete detail pages in /athletes/`);
+console.log(`Generated ${ATHLETES.length} athlete detail pages with SNS & Critique in /athletes/`);

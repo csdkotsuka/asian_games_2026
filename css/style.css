@@ -600,9 +600,70 @@ button {
 .card-summary {
   font-size: 0.82rem;
   color: var(--color-text-muted);
-  margin-bottom: 20px;
+  margin-bottom: 14px;
   line-height: 1.6;
   flex: 1;
+}
+
+/* カード内SNSミニバー */
+.card-mini-sns {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.mini-sns-link {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--color-border);
+  transition: var(--transition-fast);
+}
+
+.mini-sns-link:hover {
+  transform: scale(1.15);
+  border-color: var(--color-gold);
+}
+
+.mini-sns-link.instagram {
+  background: linear-gradient(45deg, #f09433, #dc2743, #bc1888);
+  border: none;
+}
+
+.mini-sns-link.x {
+  background: #000;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.mini-sns-link.youtube {
+  background: #c4302b;
+  border: none;
+}
+
+/* カード内批評サマリー */
+.card-verdict-box {
+  background: rgba(212, 175, 55, 0.08);
+  border-left: 2px solid var(--color-gold);
+  padding: 6px 10px;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 0.75rem;
+  color: #e2e8f0;
+  margin-bottom: 16px;
+  line-height: 1.4;
+}
+
+.card-verdict-box strong {
+  color: var(--color-gold-light);
+  display: block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 /* カードフッター・ボタン */
