@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', () => {
       return `
         <article class="athlete-card" data-id="${athlete.id}">
           <div class="card-image-wrap">
-            <img src="${athlete.photoUrl}" alt="${athlete.name} 選手のポートレート" loading="lazy">
+            <img src="${athlete.photoUrl}" alt="${athlete.name} 選手の顔写真" loading="lazy" style="object-position: ${athlete.photoPosition || 'center 20%'};">
             <button class="card-fav-btn ${isFav ? 'active' : ''}" data-fav-id="${athlete.id}" title="${isFav ? 'お気に入り解除' : 'お気に入りに追加'}" aria-label="${athlete.name}をお気に入り登録">
               ${isFav ? '★' : '☆'}
             </button>
@@ -307,7 +307,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     modalContentInner.innerHTML = `
       <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px;">
-        <img src="${athlete.photoUrl}" alt="${athlete.name}" style="width: 100px; height: 120px; object-fit: cover; border-radius: 8px; border: 1px solid var(--color-gold);">
+        <img src="${athlete.photoUrl}" alt="${athlete.name}" style="width: 100px; height: 120px; object-fit: cover; object-position: ${athlete.photoPosition || 'center 20%'}; border-radius: 8px; border: 1px solid var(--color-gold);">
         <div>
           <span style="font-size: 0.8rem; color: var(--color-gold); font-weight: 700;">${athlete.sport} / ${athlete.event}</span>
           <h3 style="font-size: 1.6rem; font-weight: 900; color: #fff; margin: 2px 0;">${athlete.name}</h3>

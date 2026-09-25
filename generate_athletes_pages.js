@@ -93,7 +93,7 @@ ATHLETES.forEach((athlete, index) => {
       <!-- ヒーローセクション -->
       <section class="detail-hero">
         <div class="detail-photo-wrap">
-          <img src="../${athlete.photoUrl}" alt="${athlete.name} 選手の顔写真・公式ポートレート">
+          <img src="../${athlete.photoUrl}" alt="${athlete.name} 選手の顔写真" style="object-position: ${athlete.photoPosition || 'center 20%'};">
         </div>
 
         <div class="detail-hero-info">
