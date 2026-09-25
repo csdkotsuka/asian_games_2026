@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026年愛知・名古屋アジア競技大会 日本代表 選手名鑑ポータル</title>
+  <meta name="description" content="2026年秋開催の第20回アジア競技大会（愛知・名古屋）日本代表・注目選手の公式名鑑。顔写真・プロフィール・実績・観戦見どころを競技別・種目別にわかりやすく掲載。">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- サイトヘッダー -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo-link" aria-label="トップページへ">
+        <div class="emblem-icon">26</div>
+        <div class="logo-text-group">
+          <h1>愛知・名古屋2026 アジア大会</h1>
+          <span class="logo-sub">TEAM JAPAN 選手名鑑ポータル</span>
+        </div>
+      </a>
+      
+      <div class="header-actions">
+        <button id="btnFavFilter" class="fav-filter-btn" aria-label="お気に入り選手のみ表示">
+          <span>★ お気に入り</span>
+          <span id="favCountBadge" class="fav-count-badge">0</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ヒーローセクション -->
+  <section class="hero-section">
+    <div class="container">
+      <div class="hero-content">
+        <div class="hero-tag">
+          <span>AICHI-NAGOYA 2026</span>
+          <span>•</span>
+          <span>9.19 - 10.4</span>
+        </div>
+        <h2 class="hero-title">
+          アジアの熱狂が、<br>
+          <span class="gradient-text">愛知・名古屋でひとつになる。</span>
+        </h2>
+        <p class="hero-desc">
+          地元日本で開催される第20回アジア競技大会（愛知・名古屋2026）。世界の頂点を目指す日本代表「TEAM JAPAN」の注目選手たちの顔写真、競技実績、プレイスタイル、1ページ分の深掘り詳細プロフィールをお届けします。
+        </p>
+        
+        <div class="hero-stats-bar">
+          <div class="stat-item">
+            <span class="stat-num" id="statAthletesCount">25</span>
+            <span class="stat-label">注目掲載選手</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">45</span>
+            <span class="stat-label">実施競技種目</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">45</span>
+            <span class="stat-label">参加国・地域</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">16日間</span>
+            <span class="stat-label">熱戦の大会期間</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- スティッキー 競技・種目ナビゲーション ＆ 検索バー -->
+  <nav class="filter-nav-section" aria-label="選手検索・競技絞り込みナビゲーション">
+    <div class="container">
+      <!-- 競技大カテゴリタブ -->
+      <div class="category-tabs" id="categoryTabs" role="tablist">
+        <button class="cat-tab active" data-category="all" role="tab" aria-selected="true">
+          <span>🌟</span><span>すべて表示</span>
+        </button>
+        <button class="cat-tab" data-category="athletics" role="tab" aria-selected="false">
+          <span>🏃</span><span>陸上競技</span>
+        </button>
+        <button class="cat-tab" data-category="aquatics" role="tab" aria-selected="false">
+          <span>🏊</span><span>水泳・飛込</span>
+        </button>
+        <button class="cat-tab" data-category="gymnastics" role="tab" aria-selected="false">
+          <span>🤸</span><span>体操</span>
+        </button>
+        <button class="cat-tab" data-category="martial-arts" role="tab" aria-selected="false">
+          <span>🥋</span><span>格闘技 (柔道/レスリング/フェンシング)</span>
+        </button>
+        <button class="cat-tab" data-category="racket" role="tab" aria-selected="false">
+          <span>🏓</span><span>ラケット (卓球/バドミントン)</span>
+        </button>
+        <button class="cat-tab" data-category="urban" role="tab" aria-selected="false">
+          <span>🛹</span><span>アーバンスポーツ (スケボー/ブレイキン)</span>
+        </button>
+        <button class="cat-tab" data-category="esports" role="tab" aria-selected="false">
+          <span>🎮</span><span>eスポーツ</span>
+        </button>
+        <button class="cat-tab" data-category="ball-games" role="tab" aria-selected="false">
+          <span>⚽</span><span>球技 (サッカー/バスケ)</span>
+        </button>
+      </div>
+
+      <!-- 検索・種目セレクタ・ソート コントロール -->
+      <div class="controls-row">
+        <div class="search-box-wrapper">
+          <span class="search-icon" aria-hidden="true">🔍</span>
+          <input type="text" id="searchInput" class="search-input" placeholder="選手名・カナ・種目・所属・キーワードで瞬時検索..." aria-label="選手名・種目検索">
+          <button id="searchClearBtn" class="search-clear-btn" aria-label="検索クリア">×</button>
+        </div>
+
+        <div class="filters-group">
+          <!-- 種目絞り込みドロップダウン -->
+          <select id="eventSelect" class="select-control" aria-label="種目で絞り込み">
+            <option value="all">全種目</option>
+          </select>
+
+          <!-- ソート順 -->
+          <select id="sortSelect" class="select-control" aria-label="表示順の並び替え">
+            <option value="default">おすすめ・注目度順</option>
+            <option value="kana">名前順（50音順）</option>
+            <option value="sport">競技別順</option>
+          </select>
+
+          <!-- 該当件数表示 -->
+          <div class="results-count" id="resultsCount">
+            表示中: <strong id="currentCount">25</strong> 名
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- 選手カード一覧表示セクション -->
+  <main class="athletes-section">
+    <div class="container">
+      <div class="athletes-grid" id="athletesGrid" aria-live="polite">
+        <!-- JavaScript (app.js) により選手カードが動的生成されます -->
+      </div>
+    </div>
+  </main>
+
+  <!-- 大会概要・会場インフォメーション -->
+  <section class="tournament-info-section">
+    <div class="container">
+      <div class="info-cards-grid">
+        <div class="info-card">
+          <h3><span>🏛️</span> 大会コンセプト</h3>
+          <p>
+            スローガンは「Imagine One Heart / ひとつになる、心から。」愛知・名古屋の伝統文化と先端ものづくり産業が融合し、アジア45の国と地域から集うアスリートの情熱を世界へと発信します。
+          </p>
+        </div>
+        <div class="info-card">
+          <h3><span>📍</span> 主要競技会場</h3>
+          <p>
+            開閉会式・陸上はリニューアルされた「パロマ瑞穂スタジアム」。体操・フェンシング等は「愛知県体育館（新アリーナ）」、サッカーは「豊田スタジアム」、eスポーツは「Aichi Sky Expo」で開催。
+          </p>
+        </div>
+        <div class="info-card">
+          <h3><span>🇯🇵</span> 地元・日本の躍進へ</h3>
+          <p>
+            日本国内でのアジア大会開催は1994年広島大会以来32年ぶり。オリンピック金メダリストから新鋭まで、自国の大歓声を味方に史上最多のメダル獲得を目指します。
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- サイトフッター -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="index.html">ホーム</a>
+        <a href="#categoryTabs">競技一覧</a>
+        <a href="https://github.com/csdkotsuka/asian_games_2026.git" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+      </div>
+      <p class="footer-copy">
+        &copy; 2026 第20回アジア競技大会（愛知・名古屋）選手名鑑ポータル. All rights reserved.
+      </p>
+    </div>
+  </footer>
+
+  <!-- クイックビュー モーダル -->
+  <div id="quickModal" class="modal-overlay" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="modal-dialog">
+      <button id="modalCloseBtn" class="modal-close-btn" aria-label="閉じる">×</button>
+      <div id="modalContentInner" class="modal-content-inner">
+        <!-- モーダル詳細内容 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- スクリプト読み込み -->
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

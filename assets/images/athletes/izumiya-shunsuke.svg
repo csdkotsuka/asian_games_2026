@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad_izumiya-shunsuke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4A00E0"/>
+      <stop offset="60%" stop-color="#8E2DE2"/>
+      <stop offset="100%" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE000"/>
+      <stop offset="100%" stop-color="#799F0C"/>
+    </linearGradient>
+    <radialGradient id="sunburst" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.25)"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0.4)"/>
+    </radialGradient>
+    <filter id="shadow_izumiya-shunsuke" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="480" rx="20" fill="url(#bgGrad_izumiya-shunsuke)"/>
+  <rect width="400" height="480" rx="20" fill="url(#sunburst)"/>
+
+  <!-- Geometric & Dynamic Pattern -->
+  <circle cx="200" cy="180" r="145" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <circle cx="200" cy="180" r="125" fill="none" stroke="#F37335" stroke-opacity="0.25" stroke-dasharray="8 6" stroke-width="2"/>
+  <polygon points="320,30 380,80 340,140" fill="rgba(255,255,255,0.04)"/>
+  <polygon points="20,380 90,440 10,460" fill="rgba(255,255,255,0.05)"/>
+
+  <!-- Top Badge: Aichi-Nagoya 2026 -->
+  <g transform="translate(24, 24)">
+    <rect width="140" height="26" rx="13" fill="rgba(0,0,0,0.4)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    <circle cx="14" cy="13" r="5" fill="#E60012"/>
+    <text x="26" y="17" fill="#FFFFFF" font-family="'Noto Sans JP', sans-serif" font-size="11" font-weight="700" letter-spacing="1">TEAM JAPAN</text>
+  </g>
+
+  <!-- Top Right Sport Symbol -->
+  <g transform="translate(330, 20)">
+    <circle cx="20" cy="20" r="22" fill="rgba(0,0,0,0.3)" stroke="#F37335" stroke-width="1.5"/>
+    <text x="20" y="27" text-anchor="middle" font-size="22">🚧</text>
+  </g>
+
+  <!-- Central Silhouette / Athlete Portrait Illustration -->
+  <g filter="url(#shadow_izumiya-shunsuke)">
+    <!-- Back Aura Glow -->
+    <ellipse cx="200" cy="210" rx="90" ry="110" fill="#F37335" opacity="0.18"/>
+
+    <!-- Athlete Torso / Jersey -->
+    <path d="M 120 380 C 120 280, 150 250, 200 250 C 250 250, 280 280, 280 380 Z" fill="#111111"/>
+    <path d="M 150 260 L 200 300 L 250 260" fill="none" stroke="rgba(0,0,0,0.15)" stroke-width="3"/>
+    
+    <!-- Chest Hinomaru Flag -->
+    <rect x="180" y="295" width="40" height="26" rx="4" fill="#FFFFFF"/>
+    <circle cx="200" cy="308" r="8" fill="#BC002D"/>
+
+    <!-- Neck -->
+    <rect x="185" y="195" width="30" height="40" rx="6" fill="#FAD0C4"/>
+
+    <!-- Head -->
+    <ellipse cx="200" cy="175" rx="52" ry="62" fill="#FFDFC4"/>
+
+    <!-- Hair / Styling depending on athlete -->
+    <path d="M 148 165 C 148 115, 252 115, 252 165 C 240 130, 160 130, 148 165 Z" fill="#1C1C1E"/>
+    
+    
+    
+
+    <!-- Facial Features (Stylized, Sleek) -->
+    <circle cx="182" cy="170" r="3.5" fill="#333"/>
+    <circle cx="218" cy="170" r="3.5" fill="#333"/>
+    <path d="M 175 160 Q 183 156 191 161" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 209 161 Q 217 156 225 160" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 200 178 L 198 188 L 202 188" fill="none" stroke="#E0A899" stroke-width="2"/>
+    <path d="M 190 198 Q 200 205 210 198" fill="none" stroke="#C25953" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Initials Watermark / Monogram -->
+  <text x="200" y="360" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="80" font-weight="900" fill="rgba(255,255,255,0.08)" letter-spacing="4">SI</text>
+
+  <!-- Bottom Card Info Overlay -->
+  <g transform="translate(0, 370)">
+    <rect width="400" height="110" fill="rgba(12, 14, 28, 0.88)"/>
+    <line x1="0" y1="0" x2="400" y2="0" stroke="#F37335" stroke-width="3"/>
+    
+    <text x="24" y="32" fill="#A0A5BA" font-family="'Noto Sans JP', sans-serif" font-size="12" font-weight="500" letter-spacing="1">AICHI-NAGOYA 2026 OFFICIAL</text>
+    <text x="24" y="62" fill="#FFFFFF" font-family="'Noto Sans JP', sans-serif" font-size="24" font-weight="900">IZUMIYA SHUNSUKE</text>
+    <text x="24" y="88" fill="#F37335" font-family="'Noto Sans JP', sans-serif" font-size="13" font-weight="700">JAPAN NATIONAL ATHLETE</text>
+  </g>
+</svg>
