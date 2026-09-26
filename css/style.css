@@ -262,18 +262,14 @@ button {
 }
 
 /* ========================================================
-   ナビゲーション＆コントロールバー（競技別アクセス向上）
+   ナビゲーション＆コントロールバー（スクロール式・画面占有を解消）
    ======================================================== */
 .filter-nav-section {
-  position: sticky;
-  top: 72px;
-  z-index: 90;
+  position: relative;
   background: rgba(10, 12, 22, 0.95);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
   padding: 16px 0;
   border-bottom: 1px solid var(--color-border);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 /* 競技大カテゴリタブ */
@@ -876,17 +872,46 @@ button {
 
 /* レスポンシブ調整 */
 @media (max-width: 768px) {
+  .header-inner {
+    height: 56px;
+  }
+  
+  .emblem-icon {
+    width: 36px;
+    height: 36px;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+  
+  .logo-text-group h1 {
+    font-size: 0.95rem;
+  }
+  
+  .logo-sub {
+    font-size: 0.65rem;
+  }
+  
+  .fav-filter-btn {
+    padding: 6px 10px;
+    font-size: 0.75rem;
+  }
+
+  .filter-nav-section {
+    padding: 12px 0;
+  }
+
   .hero-content {
-    padding: 24px;
+    padding: 20px 16px;
   }
   
   .hero-title {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
   }
   
   .controls-row {
     flex-direction: column;
     align-items: stretch;
+    gap: 10px;
   }
   
   .filters-group {
