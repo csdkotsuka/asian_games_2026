@@ -1796,5 +1796,232 @@ button {
   margin-top: 4px;
 }
 
+/* ========================================================
+   大会スケジュール ＆ 何日目・開催状況ステータス表示
+   ======================================================== */
+
+/* ヘッダー内スケジュールリンク & ステータス */
+.header-schedule-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-status-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(239, 68, 68, 0.15);
+  border: 1px solid rgba(239, 68, 68, 0.5);
+  color: #fca5a5;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+.header-status-badge.live .status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #ef4444;
+  box-shadow: 0 0 8px #ef4444;
+  animation: pulse-dot 1.5s infinite ease-in-out;
+}
+
+.header-status-badge.finished {
+  background: rgba(148, 163, 184, 0.15);
+  border-color: rgba(148, 163, 184, 0.4);
+  color: #cbd5e1;
+}
+
+.header-schedule-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, rgba(37, 99, 235, 0.2), rgba(30, 58, 138, 0.3));
+  border: 1px solid rgba(96, 165, 250, 0.5);
+  color: #93c5fd;
+  padding: 6px 14px;
+  border-radius: 9999px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.header-schedule-btn:hover {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  border-color: #93c5fd;
+  color: #ffffff !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+}
+
+@keyframes pulse-dot {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.4); opacity: 0.5; }
+}
+
+/* ヒーロー内 大会スケジュール＆進捗カード */
+.hero-schedule-card {
+  margin-top: 24px;
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(30, 41, 59, 0.8));
+  border: 1.5px solid rgba(229, 169, 60, 0.4);
+  border-radius: 14px;
+  padding: 18px 22px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+.schedule-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.schedule-card-title-group {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.schedule-day-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, #dc2626, #991b1b);
+  color: #ffffff;
+  font-size: 0.85rem;
+  font-weight: 900;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  letter-spacing: 0.05em;
+  box-shadow: 0 2px 8px rgba(220, 38, 38, 0.4);
+}
+
+.schedule-day-badge.finished {
+  background: linear-gradient(135deg, #475569, #334155);
+  box-shadow: none;
+}
+
+.schedule-period-text {
+  font-size: 0.88rem;
+  color: var(--color-gold-light);
+  font-weight: 700;
+}
+
+.schedule-progress-container {
+  margin-bottom: 14px;
+}
+
+.schedule-progress-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.78rem;
+  color: #94a3b8;
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+.schedule-progress-track {
+  width: 100%;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 9999px;
+  overflow: hidden;
+}
+
+.schedule-progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, #ef4444, #f59e0b, #10b981);
+  border-radius: 9999px;
+  transition: width 0.5s ease;
+}
+
+.schedule-highlight-box {
+  background: rgba(0, 0, 0, 0.28);
+  border-left: 3px solid var(--color-gold);
+  border-radius: 0 8px 8px 0;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+}
+
+.schedule-highlight-title {
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: #e2e8f0;
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.schedule-highlight-text {
+  font-size: 0.84rem;
+  color: #cbd5e1;
+  line-height: 1.5;
+}
+
+.schedule-actions-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.btn-official-schedule {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: #ffffff !important;
+  font-size: 0.88rem;
+  font-weight: 800;
+  padding: 9px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4);
+  border: 1px solid rgba(147, 197, 253, 0.4);
+}
+
+.btn-official-schedule:hover {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.6);
+  border-color: #ffffff;
+}
+
+.schedule-sublink {
+  font-size: 0.8rem;
+  color: #93c5fd;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+
+.schedule-sublink:hover {
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .header-schedule-btn span.schedule-label-full {
+    display: none;
+  }
+  .hero-schedule-card {
+    padding: 14px 16px;
+  }
+}
+
+
 
 

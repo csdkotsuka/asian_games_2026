@@ -122,6 +122,17 @@ ATHLETES.forEach((athlete, index) => {
       </a>
       
       <div class="header-actions">
+        <div class="header-schedule-group">
+          <div class="header-status-badge live" title="愛知・名古屋2026大会開催中（9月19日〜10月4日）">
+            <span class="status-dot"></span>
+            <span>大会8日目 / 開催中</span>
+          </div>
+          <a href="https://www.asian-games.org/competitions/schedule/" target="_blank" rel="noopener noreferrer" class="header-schedule-btn" title="愛知・名古屋2026 公式競技日程・タイムテーブル">
+            <span>📅</span>
+            <span class="schedule-label-full">公式スケジュール</span>
+            <span style="font-size: 0.75rem;">➔</span>
+          </a>
+        </div>
         <a href="../index.html" class="fav-filter-btn" style="text-decoration:none;">
           <span>← 選手一覧へ戻る</span>
         </a>

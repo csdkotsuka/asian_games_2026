@@ -27,6 +27,17 @@
       </a>
       
       <div class="header-actions">
+        <div class="header-schedule-group">
+          <div class="header-status-badge live" id="headerStatusBadge" title="愛知・名古屋2026大会開催中（9月19日〜10月4日）">
+            <span class="status-dot"></span>
+            <span id="headerStatusText">大会8日目 / 開催中</span>
+          </div>
+          <a href="https://www.asian-games.org/competitions/schedule/" target="_blank" rel="noopener noreferrer" class="header-schedule-btn" title="愛知・名古屋2026 公式競技日程・タイムテーブル">
+            <span>📅</span>
+            <span class="schedule-label-full">公式スケジュール</span>
+            <span style="font-size: 0.75rem;">➔</span>
+          </a>
+        </div>
         <button id="btnFavFilter" class="fav-filter-btn" aria-label="お気に入り選手のみ表示">
           <span>★ お気に入り</span>
           <span id="favCountBadge" class="fav-count-badge">0</span>
@@ -72,6 +83,55 @@
           <div class="stat-item">
             <span class="stat-num">16日間</span>
             <span class="stat-label">熱戦の大会期間</span>
+          </div>
+        </div>
+
+        <!-- 大会スケジュール＆リアルタイム進行状況カード -->
+        <div class="hero-schedule-card" id="heroScheduleCard">
+          <div class="schedule-card-header">
+            <div class="schedule-card-title-group">
+              <span class="schedule-day-badge" id="scheduleDayBadge">
+                <span>🔴</span>
+                <span id="scheduleDayText">大会8日目（DAY 8 / 16）開催中</span>
+              </span>
+              <span class="schedule-period-text">📅 会期: 2026年9月19日(土) 〜 10月4日(日)</span>
+            </div>
+            <div class="schedule-today-date" style="font-size: 0.82rem; color: #94a3b8; font-weight: 700;">
+              本日: 2026年9月26日(土)
+            </div>
+          </div>
+
+          <!-- 大会進捗プログレスバー -->
+          <div class="schedule-progress-container">
+            <div class="schedule-progress-info">
+              <span id="scheduleProgressLabel">大会進行状況: 中盤戦クライマックス（50%経過）</span>
+              <span id="scheduleProgressPercent">8 / 16 日間</span>
+            </div>
+            <div class="schedule-progress-track">
+              <div class="schedule-progress-bar" id="scheduleProgressBar" style="width: 50%;"></div>
+            </div>
+          </div>
+
+          <!-- 本日の主要ハイライト競技 -->
+          <div class="schedule-highlight-box">
+            <div class="schedule-highlight-title">
+              <span>🔥</span>
+              <span>本日（9月26日）の主要ハイライト競技・注目カード</span>
+            </div>
+            <p class="schedule-highlight-text">
+              卓球男子シングルス準決勝（張本智和・LIVE激闘中）、レスリング女子53kg級決勝（藤波朱理・139連勝挑戦）、陸上男子100m決勝（サニブラウン）、男子バレー決勝（日本 vs イラン）、女子ソフトボール決勝（日本 vs 中国・6連覇挑戦）
+            </p>
+          </div>
+
+          <!-- 公式スケジュールリンク・アクションボタン -->
+          <div class="schedule-actions-row">
+            <a href="https://www.asian-games.org/competitions/schedule/" target="_blank" rel="noopener noreferrer" class="btn-official-schedule">
+              <span>📅</span>
+              <span>愛知・名古屋2026 公式競技スケジュール・全日程タイムテーブルを見る ➔</span>
+            </a>
+            <a href="https://www.joc.or.jp/games/asia/" target="_blank" rel="noopener noreferrer" class="schedule-sublink">
+              JOC（日本オリンピック委員会）大会日程情報
+            </a>
           </div>
         </div>
       </div>

@@ -49,6 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // 初期化
   updateFavBadge();
+  updateTournamentScheduleStatus();
   updateMedalCounts();
   populateEventSelect();
   renderAthletes();
@@ -192,6 +193,70 @@ document.addEventListener('DOMContentLoaded', () => {
         behavior: 'smooth'
       });
     });
+  }
+
+  // ==========================================
+  // 大会スケジュール＆何日目・開催進行状況の自動計算・表示
+  // ==========================================
+  function updateTournamentScheduleStatus() {
+    // 愛知・名古屋2026アジア競技大会: 2026年9月19日(土) 〜 10月4日(日) (全16日間)
+    const startDate = new Date('2026-09-19T00:00:00+09:00');
+    const endDate = new Date('2026-10-04T23:59:59+09:00');
+    const totalDays = 16;
+
+    const now = new Date();
+    const startMidnight = new Date(startDate.getFullYear(), startDate.getMonth(), startDate.getDate());
+    const nowMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const diffTime = nowMidnight - startMidnight;
+    const currentDay = Math.floor(diffTime / (1000 * 60 * 60 * 24)) + 1;
+
+    const headerStatusBadge = document.getElementById('headerStatusBadge');
+    const headerStatusText = document.getElementById('headerStatusText');
+    const scheduleDayBadge = document.getElementById('scheduleDayBadge');
+    const scheduleDayText = document.getElementById('scheduleDayText');
+    const scheduleProgressBar = document.getElementById('scheduleProgressBar');
+    const scheduleProgressLabel = document.getElementById('scheduleProgressLabel');
+    const scheduleProgressPercent = document.getElementById('scheduleProgressPercent');
+
+    if (now < startDate) {
+      // 開幕前
+      const daysUntil = Math.ceil((startDate - now) / (1000 * 60 * 60 * 24));
+      if (headerStatusText) headerStatusText.textContent = `開幕まであと ${daysUntil}日`;
+      if (headerStatusBadge) headerStatusBadge.className = 'header-status-badge upcoming';
+      if (scheduleDayText) scheduleDayText.textContent = `開幕まであと ${daysUntil}日（9月19日開幕）`;
+      if (scheduleProgressBar) scheduleProgressBar.style.width = '0%';
+      if (scheduleProgressLabel) scheduleProgressLabel.textContent = '大会開幕準備中';
+      if (scheduleProgressPercent) scheduleProgressPercent.textContent = `あと ${daysUntil}日`;
+    } else if (now > endDate || currentDay > totalDays) {
+      // 終了後
+      if (headerStatusText) headerStatusText.textContent = '大会全日程終了（閉幕）';
+      if (headerStatusBadge) headerStatusBadge.className = 'header-status-badge finished';
+      if (scheduleDayText) scheduleDayText.textContent = '大会全日程終了（全16日間 閉幕）🏁';
+      if (scheduleDayBadge) {
+        scheduleDayBadge.classList.add('finished');
+        scheduleDayBadge.innerHTML = '<span>🏁</span><span>全日程終了（閉幕）</span>';
+      }
+      if (scheduleProgressBar) scheduleProgressBar.style.width = '100%';
+      if (scheduleProgressLabel) scheduleProgressLabel.textContent = '大会終了（全日程閉幕）';
+      if (scheduleProgressPercent) scheduleProgressPercent.textContent = '16 / 16 日間 完了';
+    } else {
+      // 開催中（何日目）
+      const percent = Math.min(Math.round((currentDay / totalDays) * 100), 100);
+      const dayLabel = `大会${currentDay}日目（DAY ${currentDay} / ${totalDays}）開催中`;
+      
+      if (headerStatusText) headerStatusText.textContent = `大会${currentDay}日目 / 開催中`;
+      if (headerStatusBadge) headerStatusBadge.className = 'header-status-badge live';
+      if (scheduleDayText) scheduleDayText.textContent = dayLabel;
+      if (scheduleProgressBar) scheduleProgressBar.style.width = `${percent}%`;
+      if (scheduleProgressLabel) {
+        scheduleProgressLabel.textContent = currentDay <= 5 
+          ? `大会序盤（${percent}%経過）` 
+          : currentDay <= 12 
+            ? `中盤戦クライマックス（${percent}%経過）` 
+            : `終盤・メダルラッシュ（${percent}%経過）`;
+      }
+      if (scheduleProgressPercent) scheduleProgressPercent.textContent = `${currentDay} / ${totalDays} 日間`;
+    }
   }
 
   // ==========================================
