@@ -403,6 +403,19 @@ document.addEventListener('DOMContentLoaded', () => {
             </div>
             ` : ''}
 
+            ${res?.officialTournament ? `
+            <div class="card-tournament-box">
+              <div class="tournament-box-title">
+                <span>📊</span> <span>公式トーナメント表・試合結果</span>
+              </div>
+              <div class="tournament-box-desc">${res.officialTournament.caption}</div>
+              <a href="${res.officialTournament.url}" target="_blank" rel="noopener noreferrer" class="btn-tournament-link" onclick="event.stopPropagation();">
+                <span>📊</span> <span>${res.officialTournament.name} ➔</span>
+              </a>
+              <div class="tournament-box-source">出典: ${res.officialTournament.source}</div>
+            </div>
+            ` : ''}
+
             ${athlete.critique?.summaryVerdict ? `
             <div class="card-verdict-box">
               <strong>専門家・メディア分析</strong>
@@ -567,6 +580,19 @@ document.addEventListener('DOMContentLoaded', () => {
             </div>
             ` : ''}
 
+            ${res?.officialTournament ? `
+            <div class="card-tournament-box">
+              <div class="tournament-box-title">
+                <span>📊</span> <span>公式トーナメント表・星取表</span>
+              </div>
+              <div class="tournament-box-desc">${res.officialTournament.caption}</div>
+              <a href="${res.officialTournament.url}" target="_blank" rel="noopener noreferrer" class="btn-tournament-link" onclick="event.stopPropagation();">
+                <span>📊</span> <span>${res.officialTournament.name} ➔</span>
+              </a>
+              <div class="tournament-box-source">出典: ${res.officialTournament.source}</div>
+            </div>
+            ` : ''}
+
             ${athlete.critique ? `
             <div class="roster-critique-box">
               <strong>💡 専門家・メディア客観批評</strong>
@@ -642,9 +668,16 @@ document.addEventListener('DOMContentLoaded', () => {
             <span class="modal-result-record">${res.scoreSummary}</span>
           </div>
           <p style="font-size: 0.85rem; color: #e2e8f0; line-height: 1.5; margin: 0 0 10px;">${res.detail}</p>
-          <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link">
-            <span>▶️</span> <span>【${res.finalScene.platform}】${res.finalScene.title}を見る</span>
-          </a>
+          <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px;">
+            <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link">
+              <span>▶️</span> <span>【${res.finalScene.platform}】${res.finalScene.title}を見る</span>
+            </a>
+            ${res.officialTournament ? `
+            <a href="${res.officialTournament.url}" target="_blank" rel="noopener noreferrer" class="btn-tournament-link">
+              <span>📊</span> <span>【${res.officialTournament.source}】${res.officialTournament.name} ➔</span>
+            </a>
+            ` : ''}
+          </div>
         </div>
         ` : ''}
 
@@ -786,6 +819,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 </a>
               </div>
               ` : ''}
+              ${res?.officialTournament ? `
+              <div class="card-tournament-box" style="margin-top: 6px; margin-bottom: 6px;">
+                <a href="${res.officialTournament.url}" target="_blank" rel="noopener noreferrer" class="btn-tournament-link" onclick="event.stopPropagation();">
+                  <span>📊</span> <span>公式トーナメント表・結果 ➔</span>
+                </a>
+              </div>
+              ` : ''}
               <div class="card-footer-actions">
                 <a href="athletes/${athlete.id}.html" class="btn-detail">詳細プロフィール ➔</a>
                 <button class="btn-quick-view" data-quick-id="${athlete.id}">クイック表示</button>
@@ -832,6 +872,13 @@ document.addEventListener('DOMContentLoaded', () => {
               <div class="card-final-scene-box">
                 <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link" onclick="event.stopPropagation();">
                   <span>▶️</span> <span>最後のシーンを見る</span>
+                </a>
+              </div>
+              ` : ''}
+              ${res?.officialTournament ? `
+              <div class="card-tournament-box" style="margin-top: 6px; margin-bottom: 6px;">
+                <a href="${res.officialTournament.url}" target="_blank" rel="noopener noreferrer" class="btn-tournament-link" onclick="event.stopPropagation();">
+                  <span>📊</span> <span>公式トーナメント表・星取表 ➔</span>
                 </a>
               </div>
               ` : ''}
@@ -970,6 +1017,15 @@ document.addEventListener('DOMContentLoaded', () => {
           </a>
         </div>
         ` : ''}
+        ${res.officialTournament ? `
+        <div style="background: rgba(30, 58, 138, 0.25); border: 1px solid rgba(59, 130, 246, 0.4); border-radius: 6px; padding: 10px; margin-bottom: 4px;">
+          <div style="font-size: 0.8rem; font-weight: 800; color: #60a5fa; margin-bottom: 4px;">📊 公式トーナメント表・試合結果（Draw/Results）</div>
+          <div style="font-size: 0.82rem; color: #cbd5e0; margin-bottom: 8px;">${res.officialTournament.caption}</div>
+          <a href="${res.officialTournament.url}" target="_blank" rel="noopener noreferrer" class="btn-tournament-link">
+            <span>📊</span> <span>【${res.officialTournament.source}】${res.officialTournament.name}を見る ➔</span>
+          </a>
+        </div>
+        ` : ''}
       </div>
       ` : ''}
       
@@ -1064,6 +1120,15 @@ document.addEventListener('DOMContentLoaded', () => {
           <div style="font-size: 0.82rem; color: #cbd5e0; margin-bottom: 8px;">${res.finalScene.description}</div>
           <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link">
             <span>▶️</span> <span>【${res.finalScene.platform}】${res.finalScene.title}を見る</span>
+          </a>
+        </div>
+        ` : ''}
+        ${res.officialTournament ? `
+        <div style="background: rgba(30, 58, 138, 0.25); border: 1px solid rgba(59, 130, 246, 0.4); border-radius: 6px; padding: 10px; margin-bottom: 4px;">
+          <div style="font-size: 0.8rem; font-weight: 800; color: #60a5fa; margin-bottom: 4px;">📊 公式トーナメント表・試合結果（Draw/Results）</div>
+          <div style="font-size: 0.82rem; color: #cbd5e0; margin-bottom: 8px;">${res.officialTournament.caption}</div>
+          <a href="${res.officialTournament.url}" target="_blank" rel="noopener noreferrer" class="btn-tournament-link">
+            <span>📊</span> <span>【${res.officialTournament.source}】${res.officialTournament.name}を見る ➔</span>
           </a>
         </div>
         ` : ''}

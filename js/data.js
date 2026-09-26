@@ -106,6 +106,12 @@ const ATHLETES_DATA = [
         "description": "槍が美しい放物線を描いて67mラインを越えた瞬間、トレードマークの満面の笑みで両手を突き上げスタンドを沸かせた歓喜のラストシーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=北口榛花+アジア大会+やり投+金メダル+ハイライト"
+      },
+      "officialTournament": {
+        "name": "JAAF公式 大会リザルト速報",
+        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
+        "url": "https://worldathletics.org/competitions/asian-games",
+        "caption": "女子やり投 予選・決勝全試技記録表"
       }
     }
   },
@@ -202,6 +208,12 @@ const ATHLETES_DATA = [
         "description": "大型ストライドでトップスピードに乗り、横一線の激戦でゴール板に駆け込んだ大迫力のラストスプリント。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=サニブラウン+100m+アジア大会+9秒台+銀メダル"
+      },
+      "officialTournament": {
+        "name": "JAAF公式 大会リザルト速報",
+        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
+        "url": "https://worldathletics.org/competitions/asian-games",
+        "caption": "男子100m ラウンド別公式リザルト・風速記録"
       }
     }
   },
@@ -293,6 +305,12 @@ const ATHLETES_DATA = [
         "description": "歯を食いしばり腕を大きく振ってライバルを振り切り、1着でゴールテープを切った感動のラストシーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=田中希実+1500m+アジア大会+金メダル+ハイライト"
+      },
+      "officialTournament": {
+        "name": "JAAF公式 大会リザルト速報",
+        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
+        "url": "https://worldathletics.org/competitions/asian-games",
+        "caption": "女子1500m・5000m ラップタイム＆公式結果"
       }
     }
   },
@@ -385,6 +403,12 @@ const ATHLETES_DATA = [
         "description": "完璧なインターバル歩数で10台のハードルを駆け抜け、胸を突き出して電光掲示板の大会新記録を確認した歓喜の瞬間。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=泉谷駿介+110mハードル+アジア大会+金メダル+大会新"
+      },
+      "officialTournament": {
+        "name": "JAAF公式 大会リザルト速報",
+        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
+        "url": "https://worldathletics.org/competitions/asian-games",
+        "caption": "男子110mH 予選・準決・決勝公式タイムシート"
       }
     }
   },
@@ -481,6 +505,12 @@ const ATHLETES_DATA = [
         "description": "プールから上がった後、支えてくれた仲間やファンに向かって涙と笑顔で手を振った胸を打つシーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=池江璃花子+競泳+アジア大会+50mバタフライ+表彰台"
+      },
+      "officialTournament": {
+        "name": "World Aquatics 公式リザルト",
+        "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
+        "url": "https://www.worldaquatics.com/competitions",
+        "caption": "女子50mバタフライ 予選・準決・決勝公式タイムシート"
       }
     }
   },
@@ -568,6 +598,12 @@ const ATHLETES_DATA = [
         "description": "水煙を上げながら最後のストロークを伸ばし、タッチ板を激しく叩いた白熱のゴールシーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=松元克央+競泳+200m自由形+アジア大会+銀メダル"
+      },
+      "officialTournament": {
+        "name": "World Aquatics 公式リザルト",
+        "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
+        "url": "https://www.worldaquatics.com/competitions",
+        "caption": "男子200m自由形 50mラップ別公式リザルト表"
       }
     }
   },
@@ -650,6 +686,12 @@ const ATHLETES_DATA = [
         "description": "10mの高さから空中4回転半を回しきり、一切の波を立てず吸い込まれるように着水した衝撃のダイブ。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=玉井陸斗+高飛込+アジア大会+金メダル+ハイライト"
+      },
+      "officialTournament": {
+        "name": "World Aquatics 公式リザルト",
+        "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
+        "url": "https://www.worldaquatics.com/competitions",
+        "caption": "男子高飛込 予選・準決・決勝ラウンド別全試技採点詳細"
       }
     }
   },
@@ -742,6 +784,12 @@ const ATHLETES_DATA = [
         "description": "雄大な伸身トカチェフから完璧な着地を決め、天を仰いで両拳を突き上げた日本体操エースの真骨頂。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=橋本大輝+体操+個人総合+鉄棒+アジア大会+金メダル"
+      },
+      "officialTournament": {
+        "name": "JGA公式 競技結果・採点シート",
+        "source": "日本体操協会 (JGA) / 国際体操連盟 (FIG)",
+        "url": "https://www.jpn-gym.or.jp/artistic/event/",
+        "caption": "男子個人総合 6種目別得点・Dスコア/Eスコア全詳細"
       }
     }
   },
@@ -824,6 +872,12 @@ const ATHLETES_DATA = [
         "description": "バーからふわりと舞い上がりマット中央にビタリと着地、爽やかな笑顔で審判団に一礼した洗練の瞬間。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=岡慎之助+体操+平行棒+アジア大会+金メダル"
+      },
+      "officialTournament": {
+        "name": "JGA公式 競技結果・採点シート",
+        "source": "日本体操協会 (JGA) / 国際体操連盟 (FIG)",
+        "url": "https://www.jpn-gym.or.jp/artistic/event/",
+        "caption": "男子種目別平行棒 予選・決勝公式ジャッジ採点表"
       }
     }
   },
@@ -915,6 +969,12 @@ const ATHLETES_DATA = [
         "description": "相手の懐深くに鋭く踏み込み、会場がどよめくほどのスピードで畳に叩きつけた劇的な一本勝ちの瞬間。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=阿部一二三+柔道+アジア大会+決勝+一本勝ち"
+      },
+      "officialTournament": {
+        "name": "IJF公式 トーナメント表 (Draw)",
+        "source": "国際柔道連盟 (IJF Judobase) / 全日本柔道連盟",
+        "url": "https://judobase.ijf.org/",
+        "caption": "男子66kg級 勝ち上がりトーナメント表＆全試合決まり技詳細"
       }
     }
   },
@@ -1011,6 +1071,12 @@ const ATHLETES_DATA = [
         "description": "電光石火の内股が決まり主審が「一本」を宣告した瞬間、畳の上で小さく拳を握り、感謝の礼を捧げた感動のラストシーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=阿部詩+柔道+アジア大会+内股+一本"
+      },
+      "officialTournament": {
+        "name": "IJF公式 トーナメント表 (Draw)",
+        "source": "国際柔道連盟 (IJF Judobase) / 全日本柔道連盟",
+        "url": "https://judobase.ijf.org/",
+        "caption": "女子52kg級 勝ち上がりトーナメント表＆全試合決まり技詳細"
       }
     }
   },
@@ -1098,6 +1164,12 @@ const ATHLETES_DATA = [
         "description": "相手が前に出た瞬間を見逃さず、深く腰を入れて頭上へ跳ね上げた神技の巴投げの決定的瞬間。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=角田夏実+柔道+巴投げ+アジア大会+金メダル"
+      },
+      "officialTournament": {
+        "name": "IJF公式 トーナメント表 (Draw)",
+        "source": "国際柔道連盟 (IJF Judobase) / 全日本柔道連盟",
+        "url": "https://judobase.ijf.org/",
+        "caption": "女子48kg級 公式トーナメント対戦表＆スコア詳細"
       }
     }
   },
@@ -1185,6 +1257,12 @@ const ATHLETES_DATA = [
         "description": "開始数十秒で相手の懐に潜り込み一瞬でテイクダウン、圧倒的なスピードで連勝記録を伸ばした圧巻のフィニッシュ。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=藤波朱理+レスリング+アジア大会+決勝+金メダル"
+      },
+      "officialTournament": {
+        "name": "UWW公式 対戦トーナメント表",
+        "source": "世界レスリング連盟 (UWW Arena) / 日本レスリング協会",
+        "url": "https://uww.org/events",
+        "caption": "女子53kg級 勝ち上がりブラケット＆ピリオド別スコア"
       }
     }
   },
@@ -1272,6 +1350,12 @@ const ATHLETES_DATA = [
         "description": "相手剣をかわしてランプを灯した瞬間、マスクを脱ぎ捨ててベンチと抱き合ったドラマチックな歓喜。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=加納虹輝+フェンシング+エペ+アジア大会+金メダル"
+      },
+      "officialTournament": {
+        "name": "FIE公式 対戦ブラケット表",
+        "source": "国際フェンシング連盟 (FIE) / 日本フェンシング協会",
+        "url": "https://fie.org/competitions",
+        "caption": "男子エペ個人 決勝トーナメント表＆ポイント経過記録"
       }
     }
   },
@@ -1363,6 +1447,12 @@ const ATHLETES_DATA = [
         "description": "相手のサーブを台上で鋭く捉えてフォアサイドへ突き刺し、満面の笑顔で拳を振り上げたシーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=張本智和+卓球+アジア大会+銅メダル+ハイライト"
+      },
+      "officialTournament": {
+        "name": "WTT公式 トーナメント表 (Draw)",
+        "source": "WTT (World Table Tennis) / 日本卓球協会",
+        "url": "https://worldtabletennis.com/results",
+        "caption": "男子シングルス 決勝トーナメント表＆3位決定戦スコア"
       }
     }
   },
@@ -1450,6 +1540,12 @@ const ATHLETES_DATA = [
         "description": "台から下がって粘り強く打ち返し、会場中が固唾を呑んで見守った世紀のラリーと試合後の清々しい笑顔。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=早田ひな+卓球+アジア大会+決勝+ラリー+ハイライト"
+      },
+      "officialTournament": {
+        "name": "WTT公式 トーナメント表 (Draw)",
+        "source": "WTT (World Table Tennis) / 日本卓球協会",
+        "url": "https://worldtabletennis.com/results",
+        "caption": "女子シングルス 決勝トーナメント表＆ゲーム別詳細スコア"
       }
     }
   },
@@ -1532,6 +1628,12 @@ const ATHLETES_DATA = [
         "description": "最後はライン際への鋭いドロップショット。シャトルが落ちた瞬間、全てを出し切って大の字に倒れ込んだ劇的フィニッシュ。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=奈良岡功大+バドミントン+アジア大会+ハイライト"
+      },
+      "officialTournament": {
+        "name": "BWF公式 トーナメント表 (Draw)",
+        "source": "BWF Tournament Software / 日本バドミントン協会",
+        "url": "https://bwfbadminton.com/results/",
+        "caption": "男子シングルス 本戦トーナメント表＆全試合ゲームスコア"
       }
     }
   },
@@ -1619,6 +1721,12 @@ const ATHLETES_DATA = [
         "description": "コートを縦横無尽に走り、飛びつきながらシャトルを拾い続けたバドミントン界屈指の名シーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=山口茜+バドミントン+アジア大会+決勝+ハイライト"
+      },
+      "officialTournament": {
+        "name": "BWF公式 トーナメント表 (Draw)",
+        "source": "BWF Tournament Software / 日本バドミントン協会",
+        "url": "https://bwfbadminton.com/results/",
+        "caption": "女子シングルス 本戦トーナメント表＆マッチスタッツ"
       }
     }
   },
@@ -1715,6 +1823,12 @@ const ATHLETES_DATA = [
         "description": "手すりを滑り降りた板がピタリと路面に吸い付き、両腕を大きく広げて渾身のガッツポーズを見せた奇跡の瞬間。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=堀米雄斗+スケートボード+アジア大会+ベストトリック+金メダル"
+      },
+      "officialTournament": {
+        "name": "World Skate 公式リザルト",
+        "source": "World Skate / ワールドスケートジャパン",
+        "url": "https://www.worldskate.org/skateboarding/results.html",
+        "caption": "男子ストリート 予選・決勝ラン＆ベストトリック全採点表"
       }
     }
   },
@@ -1791,6 +1905,12 @@ const ATHLETES_DATA = [
         "description": "最終トリックをノーミスで決めてウイニングラン。ライバルたちと笑顔で抱き合い喜びを分かち合ったシーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=吉沢恋+スケートボード+アジア大会+金メダル+ハイライト"
+      },
+      "officialTournament": {
+        "name": "World Skate 公式リザルト",
+        "source": "World Skate / ワールドスケートジャパン",
+        "url": "https://www.worldskate.org/skateboarding/results.html",
+        "caption": "女子ストリート 予選・決勝トリック別公式スコアシート"
       }
     }
   },
@@ -1892,6 +2012,12 @@ const ATHLETES_DATA = [
         "description": "ビートが鳴り止むのと同時に片手1本で静止する極限のフリーズを決め、ジャッジを唸らせたファイナルムーブ。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=Shigekix+ブレイキン+アジア大会+決勝+金メダル"
+      },
+      "officialTournament": {
+        "name": "WDSF公式 バトルブラケット表",
+        "source": "世界ダンススポーツ連盟 (WDSF) / JDSF",
+        "url": "https://www.worlddancesport.org/",
+        "caption": "男子ブレイキン ラウンドロビン＆決勝トーナメント対戦表"
       }
     }
   },
@@ -1974,6 +2100,12 @@ const ATHLETES_DATA = [
         "description": "音楽に溶け込むようなステップから流れるようにトップロックでフィニッシュ、会場全体のスタンディングオベーションを浴びた瞬間。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=AMI+湯浅亜実+ブレイキン+アジア大会+金メダル"
+      },
+      "officialTournament": {
+        "name": "WDSF公式 バトルブラケット表",
+        "source": "世界ダンススポーツ連盟 (WDSF) / JDSF",
+        "url": "https://www.worlddancesport.org/",
+        "caption": "女子ブレイキン ジャッジ採点内訳＆対戦ブラケット"
       }
     }
   },
@@ -2070,6 +2202,12 @@ const ATHLETES_DATA = [
         "description": "ミリ単位の体力差で相手の反撃を完璧に防ぎ、超必殺技CAでK.O.を奪った瞬間のヘッドセットを外しての力強い立ち姿。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=ときど+ストリートファイター6+アジア大会+決勝+優勝"
+      },
+      "officialTournament": {
+        "name": "CAPCOM / JeSU公式 対戦表",
+        "source": "カプコン公式 (CAPCOM Fighters) / 日本eスポーツ連合",
+        "url": "https://capcomprotour.com/",
+        "caption": "ストリートファイター6部門 ダブルエリミネーション対戦表"
       }
     }
   },
@@ -2157,6 +2295,12 @@ const ATHLETES_DATA = [
         "description": "ディフェンスのチェックをかいくぐり約9mの位置からネットを揺らした劇的な連続得点シーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=河村勇輝+バスケ+アジア大会+ハイライト+アシスト"
+      },
+      "officialTournament": {
+        "name": "FIBA公式 スケジュール＆ボックススコア",
+        "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会",
+        "url": "https://www.fiba.basketball/",
+        "caption": "男子日本代表 予選〜決勝トーナメント全試合公式ボックススコア"
       }
     }
   },
@@ -2239,6 +2383,12 @@ const ATHLETES_DATA = [
         "description": "スルーパスに抜け出し、相手センターバックと競り合いながらファーサイドネットへ突き刺した強烈なストライカーゴール。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=細谷真大+サッカー+アジア大会+ゴール+ハイライト"
+      },
+      "officialTournament": {
+        "name": "JFA公式 大会日程・結果速報",
+        "source": "日本サッカー協会 (JFA) / AFC 公式記録",
+        "url": "https://www.jfa.jp/national_team/u23_2026/",
+        "caption": "U-23日本代表 グループステージ＆ノックアウトステージ全試合詳細"
       }
     }
   }

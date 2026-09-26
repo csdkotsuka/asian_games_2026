@@ -1708,4 +1708,63 @@ button {
   font-weight: 700;
 }
 
+/* ========================================================
+   公式トーナメント表・試合結果リンク
+   ======================================================== */
+.btn-tournament-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, #2563eb, #1e40af);
+  color: #ffffff !important;
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 5px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.35);
+  border: 1px solid rgba(147, 197, 253, 0.3);
+}
+
+.btn-tournament-link:hover {
+  background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.55);
+  color: #ffffff !important;
+  border-color: rgba(147, 197, 253, 0.7);
+}
+
+.card-tournament-box {
+  background: rgba(30, 58, 138, 0.22);
+  border: 1px solid rgba(59, 130, 246, 0.35);
+  border-radius: 8px;
+  padding: 8px 10px;
+  margin-top: 8px;
+}
+
+.tournament-box-title {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: #60a5fa;
+  margin-bottom: 3px;
+}
+
+.tournament-box-desc {
+  font-size: 0.76rem;
+  color: #e2e8f0;
+  line-height: 1.4;
+  margin-bottom: 6px;
+}
+
+.tournament-box-source {
+  font-size: 0.68rem;
+  color: #94a3b8;
+  margin-top: 4px;
+}
+
+
 

@@ -68,6 +68,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -114,6 +120,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -160,6 +172,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -206,6 +224,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -252,6 +276,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -298,6 +328,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -344,6 +380,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -391,6 +433,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -437,6 +485,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -483,6 +537,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -529,6 +589,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -575,6 +641,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -621,6 +693,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -667,6 +745,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -713,6 +797,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -759,6 +849,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -807,6 +903,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -853,6 +955,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -898,6 +1006,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -944,6 +1058,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -990,6 +1110,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       },
@@ -1035,6 +1161,12 @@ const TEAMS_DATA = [
             "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       }
@@ -1049,6 +1181,12 @@ const TEAMS_DATA = [
         "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+      },
+      "officialTournament": {
+        "name": "JFA公式 大会日程・全試合結果",
+        "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+        "url": "https://www.jfa.jp/national_team/u23_2026/",
+        "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
       }
     }
   },
@@ -1117,6 +1255,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1169,6 +1313,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1215,6 +1365,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1267,6 +1423,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1313,6 +1475,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1359,6 +1527,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1405,6 +1579,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1452,6 +1632,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1498,6 +1684,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1544,6 +1736,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1590,6 +1788,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1636,6 +1840,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1682,6 +1892,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1728,6 +1944,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1774,6 +1996,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1820,6 +2048,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1866,6 +2100,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1912,6 +2152,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -1958,6 +2204,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -2004,6 +2256,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -2050,6 +2308,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       },
@@ -2096,6 +2360,12 @@ const TEAMS_DATA = [
             "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          },
+          "officialTournament": {
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       }
@@ -2110,6 +2380,12 @@ const TEAMS_DATA = [
         "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+      },
+      "officialTournament": {
+        "name": "JFA公式 なでしこジャパン大会結果",
+        "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+        "url": "https://www.jfa.jp/nadeshikojapan/",
+        "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
       }
     }
   },
@@ -2185,6 +2461,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2237,6 +2519,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2283,6 +2571,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2334,6 +2628,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2386,6 +2686,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2433,6 +2739,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2479,6 +2791,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2525,6 +2843,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2571,6 +2895,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2617,6 +2947,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2663,6 +2999,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       },
@@ -2709,6 +3051,12 @@ const TEAMS_DATA = [
             "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
+            "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       }
@@ -2723,6 +3071,12 @@ const TEAMS_DATA = [
         "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+      },
+      "officialTournament": {
+        "name": "FIBA公式 トーナメント表＆結果",
+        "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+        "url": "https://www.fiba.basketball/",
+        "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
       }
     }
   },
@@ -2797,6 +3151,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -2849,6 +3209,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -2901,6 +3267,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -2947,6 +3319,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -2993,6 +3371,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -3039,6 +3423,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -3085,6 +3475,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -3131,6 +3527,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -3177,6 +3579,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -3223,6 +3631,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -3269,6 +3683,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -3315,6 +3735,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -3361,6 +3787,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       },
@@ -3407,6 +3839,12 @@ const TEAMS_DATA = [
             "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
+            "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       }
@@ -3421,6 +3859,12 @@ const TEAMS_DATA = [
         "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+      },
+      "officialTournament": {
+        "name": "AVC公式 マッチリザルト・星取表",
+        "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+        "url": "https://asianvolleyball.net/",
+        "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
       }
     }
   },
@@ -3489,6 +3933,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3536,6 +3986,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3582,6 +4038,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3628,6 +4090,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3674,6 +4142,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3721,6 +4195,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3767,6 +4247,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3813,6 +4299,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3859,6 +4351,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3905,6 +4403,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3951,6 +4455,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -3997,6 +4507,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4043,6 +4559,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4089,6 +4611,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4135,6 +4663,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4181,6 +4715,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4227,6 +4767,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4273,6 +4819,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4319,6 +4871,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4365,6 +4923,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4411,6 +4975,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4457,6 +5027,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4503,6 +5079,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       },
@@ -4549,6 +5131,12 @@ const TEAMS_DATA = [
             "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       }
@@ -4563,6 +5151,12 @@ const TEAMS_DATA = [
         "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+      },
+      "officialTournament": {
+        "name": "侍ジャパン公式 試合日程・結果",
+        "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+        "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+        "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
       }
     }
   },
@@ -4631,6 +5225,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -4677,6 +5277,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -4723,6 +5329,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -4769,6 +5381,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -4815,6 +5433,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -4861,6 +5485,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -4907,6 +5537,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -4953,6 +5589,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -4999,6 +5641,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -5045,6 +5693,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -5091,6 +5745,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -5137,6 +5797,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -5183,6 +5849,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -5229,6 +5901,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       },
@@ -5275,6 +5953,12 @@ const TEAMS_DATA = [
             "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
             "platform": "YouTube",
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          },
+          "officialTournament": {
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
+            "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       }
@@ -5289,6 +5973,12 @@ const TEAMS_DATA = [
         "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
         "platform": "YouTube",
         "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+      },
+      "officialTournament": {
+        "name": "JSA公式 大会トーナメント対戦表",
+        "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+        "url": "https://www.softball.or.jp/",
+        "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
       }
     }
   }

@@ -225,11 +225,20 @@ ATHLETES.forEach((athlete, index) => {
             </div>
             <p style="font-size: 0.92rem; color: #f1f5f9; line-height: 1.6; margin: 0 0 14px;">${athlete.tournamentResult.summary}</p>
             ${athlete.tournamentResult.finalScene ? `
-            <div style="background: rgba(0,0,0,0.35); border-radius: 8px; padding: 12px 14px;">
+            <div style="background: rgba(0,0,0,0.35); border-radius: 8px; padding: 12px 14px; margin-bottom: 12px;">
               <div style="font-size: 0.85rem; font-weight: 800; color: #f87171; margin-bottom: 4px;">🎬 最後のシーン（決定的瞬間・ハイライト）</div>
               <div style="font-size: 0.85rem; color: #cbd5e0; margin-bottom: 10px; line-height: 1.5;">${athlete.tournamentResult.finalScene.description}</div>
               <a href="${athlete.tournamentResult.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link" style="font-size: 0.82rem; padding: 7px 16px;">
                 <span>▶️</span> <span>【${athlete.tournamentResult.finalScene.platform}】${athlete.tournamentResult.finalScene.title} を見る</span>
+              </a>
+            </div>
+            ` : ''}
+            ${athlete.tournamentResult.officialTournament ? `
+            <div style="background: rgba(30, 58, 138, 0.3); border: 1px solid rgba(59, 130, 246, 0.4); border-radius: 8px; padding: 12px 14px;">
+              <div style="font-size: 0.85rem; font-weight: 800; color: #60a5fa; margin-bottom: 4px;">📊 公式トーナメント表・競技記録速報（Draw/Results）</div>
+              <div style="font-size: 0.85rem; color: #e2e8f0; margin-bottom: 10px; line-height: 1.5;">${athlete.tournamentResult.officialTournament.caption}</div>
+              <a href="${athlete.tournamentResult.officialTournament.url}" target="_blank" rel="noopener noreferrer" class="btn-tournament-link" style="font-size: 0.82rem; padding: 7px 16px;">
+                <span>📊</span> <span>【${athlete.tournamentResult.officialTournament.source}】${athlete.tournamentResult.officialTournament.name} を見る ➔</span>
               </a>
             </div>
             ` : ''}
