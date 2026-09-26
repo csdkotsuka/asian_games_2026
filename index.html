@@ -49,21 +49,25 @@
           <span class="gradient-text">愛知・名古屋でひとつになる。</span>
         </h2>
         <p class="hero-desc">
-          地元日本で開催される第20回アジア競技大会（愛知・名古屋2026）。世界の頂点を目指す日本代表「TEAM JAPAN」の注目選手たちの顔写真、競技実績、プレイスタイル、1ページ分の深掘り詳細プロフィールをお届けします。
+          地元日本で開催される第20回アジア競技大会（愛知・名古屋2026）。世界の頂点を目指す日本代表「TEAM JAPAN」の個人注目選手をはじめ、サッカー男女・バスケ・バレー・野球・ソフトボールなどチームスポーツの全登録選手ロスター（109名）を完全網羅。顔写真・背番号・ポジション・客観的批評・公式SNSをお届けします。
         </p>
         
         <div class="hero-stats-bar">
           <div class="stat-item">
             <span class="stat-num" id="statAthletesCount">25</span>
-            <span class="stat-label">注目掲載選手</span>
+            <span class="stat-label">個人注目選手</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">109</span>
+            <span class="stat-label">チーム全登録選手</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">6</span>
+            <span class="stat-label">球技・団体競技</span>
           </div>
           <div class="stat-item">
             <span class="stat-num">45</span>
             <span class="stat-label">実施競技種目</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-num">45</span>
-            <span class="stat-label">参加国・地域</span>
           </div>
           <div class="stat-item">
             <span class="stat-num">16日間</span>
@@ -104,15 +108,57 @@
           <span>🎮</span><span>eスポーツ</span>
         </button>
         <button class="cat-tab" data-category="ball-games" role="tab" aria-selected="false">
-          <span>⚽</span><span>球技 (サッカー/バスケ)</span>
+          <span>⚽</span><span>球技・チームスポーツ</span>
         </button>
+      </div>
+
+      <!-- 表示モードスイッチャー (個人注目選手 vs チームスポーツ全登録ロスター) -->
+      <div class="view-mode-bar" id="viewModeBar" role="tablist" aria-label="名鑑表示モード">
+        <button class="view-mode-btn active" id="btnModeIndividual" data-mode="individual" role="tab" aria-selected="true">
+          <span class="mode-icon">🏅</span>
+          <span class="mode-text">個人注目選手名鑑 <small>(25名)</small></span>
+        </button>
+        <button class="view-mode-btn" id="btnModeTeam" data-mode="team" role="tab" aria-selected="false">
+          <span class="mode-icon">👥</span>
+          <span class="mode-text">チームスポーツ全登録選手名鑑 <small>(6競技・109名)</small></span>
+        </button>
+      </div>
+
+      <!-- チームスポーツ個別種目切り替えバー (チームモード時および球技タブ選択時に連動) -->
+      <div class="team-subnav" id="teamSubNav" style="display: none;" role="region" aria-label="チームスポーツ種目選択">
+        <div class="team-subnav-title">
+          <span>🏆 種目別チーム選択:</span>
+        </div>
+        <div class="team-pills" id="teamPills">
+          <button class="team-pill active" data-team-id="football-men">
+            <span>⚽</span><span>男子サッカー (22名)</span>
+          </button>
+          <button class="team-pill" data-team-id="football-women">
+            <span>🌸</span><span>女子サッカー (22名)</span>
+          </button>
+          <button class="team-pill" data-team-id="basketball-men">
+            <span>🏀</span><span>男子バスケ (12名)</span>
+          </button>
+          <button class="team-pill" data-team-id="volleyball-men">
+            <span>🏐</span><span>男子バレー (14名)</span>
+          </button>
+          <button class="team-pill" data-team-id="baseball-men">
+            <span>⚾</span><span>男子野球 (24名)</span>
+          </button>
+          <button class="team-pill" data-team-id="softball-women">
+            <span>🥎</span><span>女子ソフトボール (15名)</span>
+          </button>
+          <button class="team-pill" data-team-id="all">
+            <span>🌐</span><span>全チーム一括 (109名)</span>
+          </button>
+        </div>
       </div>
 
       <!-- 検索・種目セレクタ・ソート コントロール -->
       <div class="controls-row">
         <div class="search-box-wrapper">
           <span class="search-icon" aria-hidden="true">🔍</span>
-          <input type="text" id="searchInput" class="search-input" placeholder="選手名・カナ・種目・所属・キーワードで瞬時検索..." aria-label="選手名・種目検索">
+          <input type="text" id="searchInput" class="search-input" placeholder="選手名・カナ・種目・ポジション・所属で瞬時検索..." aria-label="選手名・種目検索">
           <button id="searchClearBtn" class="search-clear-btn" aria-label="検索クリア">×</button>
         </div>
 
@@ -124,7 +170,8 @@
 
           <!-- ソート順 -->
           <select id="sortSelect" class="select-control" aria-label="表示順の並び替え">
-            <option value="default">おすすめ・注目度順</option>
+            <option value="default">おすすめ・登録順</option>
+            <option value="number">背番号順</option>
             <option value="kana">名前順（50音順）</option>
             <option value="sport">競技別順</option>
           </select>
@@ -137,6 +184,11 @@
       </div>
     </div>
   </nav>
+
+  <!-- チーム概要ヘッダーセクション（チーム選択時に動的表示） -->
+  <div class="container" id="teamHeaderContainer" style="display: none;">
+    <!-- JavaScriptにより選択されたチームの情報が描画されます -->
+  </div>
 
   <!-- 選手カード一覧表示セクション -->
   <main class="athletes-section">
@@ -199,6 +251,7 @@
 
   <!-- スクリプト読み込み -->
   <script src="js/data.js"></script>
+  <script src="js/team_data.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

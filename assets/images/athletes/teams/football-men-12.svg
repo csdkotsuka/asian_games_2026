@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#002B7F" />
+      <stop offset="100%" stop-color="#0A1128" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5A93C" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="400" height="480" fill="url(#bgGrad)" />
+
+  <!-- デザインジオメトリ幾何学パターン -->
+  <circle cx="200" cy="180" r="140" fill="none" stroke="#E5A93C" stroke-width="2" stroke-opacity="0.15" />
+  <circle cx="200" cy="180" r="110" fill="none" stroke="#E5A93C" stroke-width="1" stroke-dasharray="6 6" stroke-opacity="0.25" />
+  <path d="M-50,480 L450,200 L450,480 Z" fill="#0A1128" opacity="0.6" />
+
+  <!-- 大会バナー -->
+  <g transform="translate(20, 30)">
+    <text x="0" y="0" fill="#E5A93C" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" letter-spacing="2">AICHI-NAGOYA 2026</text>
+    <text x="0" y="16" fill="#A0AEC0" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" letter-spacing="1">TEAM JAPAN OFFICIAL ROSTER</text>
+  </g>
+
+  <!-- 競技アイコン -->
+  <text x="360" y="38" text-anchor="end" font-size="28">⚽</text>
+
+  <!-- ポジションバッジ -->
+  <g transform="translate(200, 100)" text-anchor="middle">
+    <rect x="-45" y="-18" width="90" height="26" rx="13" fill="#E5A93C" opacity="0.9" />
+    <text x="0" y="0" fill="#000000" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="900" letter-spacing="1" alignment-baseline="central">GK</text>
+  </g>
+
+  <!-- 背番号 特大表示 -->
+  <text x="200" y="230" text-anchor="middle" fill="#FFFFFF" font-family="Impact, Arial Black, sans-serif" font-size="120" font-weight="900" opacity="0.92" filter="url(#shadow)">12</text>
+
+  <!-- 選手名と詳細情報 -->
+  <g transform="translate(200, 310)" text-anchor="middle">
+    <!-- ローマ字 -->
+    <text x="0" y="0" fill="#E5A93C" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" letter-spacing="2">TAISHI BRANDON NOZAWA</text>
+    <!-- 漢字名 -->
+    <text x="0" y="38" fill="#FFFFFF" font-family="Hiragino Sans, Meiryo, sans-serif" font-size="28" font-weight="900">野澤 大志 ブランドン</text>
+    <!-- カナ -->
+    <text x="0" y="60" fill="#CBD5E0" font-family="Hiragino Sans, Meiryo, sans-serif" font-size="12">のざわ たいし ぶらんどん</text>
+    <!-- 所属 -->
+    <text x="0" y="90" fill="#A0AEC0" font-family="Hiragino Sans, Meiryo, sans-serif" font-size="12" font-weight="500">FC東京</text>
+    <!-- 身長体重・年齢 -->
+    <text x="0" y="112" fill="#E5A93C" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600">193cm / 90kg / 23歳</text>
+  </g>
+
+  <!-- 下部アクセントライン -->
+  <rect x="0" y="474" width="400" height="6" fill="url(#accentGrad)" />
+</svg>
