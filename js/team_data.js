@@ -56,7 +56,20 @@ const TEAMS_DATA = [
             "handle": "@leobriankokubo",
             "url": "https://www.instagram.com/leobriankokubo/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 12,
@@ -89,7 +102,20 @@ const TEAMS_DATA = [
             "handle": "@taishi_brandon_nozawa",
             "url": "https://www.instagram.com/taishi_brandon_nozawa/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 2,
@@ -122,7 +148,20 @@ const TEAMS_DATA = [
             "handle": "@hiroki_sekine0811",
             "url": "https://www.instagram.com/hiroki_sekine0811/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 3,
@@ -155,7 +194,20 @@ const TEAMS_DATA = [
             "handle": "@ryuya_nishio_3",
             "url": "https://www.instagram.com/ryuya_nishio_3/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 4,
@@ -188,7 +240,20 @@ const TEAMS_DATA = [
             "handle": "@kota_takai_4",
             "url": "https://www.instagram.com/kota_takai_4/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 5,
@@ -221,7 +286,20 @@ const TEAMS_DATA = [
             "handle": "@seiji_kimura_5",
             "url": "https://www.instagram.com/seiji_kimura_5/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 16,
@@ -254,7 +332,20 @@ const TEAMS_DATA = [
             "handle": "@ayumu_ohata_16",
             "url": "https://www.instagram.com/ayumu_ohata_16/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 8,
@@ -288,7 +379,20 @@ const TEAMS_DATA = [
             "handle": "@joel_chima_fujita",
             "url": "https://www.instagram.com/joel_chima_fujita/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 7,
@@ -321,7 +425,20 @@ const TEAMS_DATA = [
             "handle": "@rihito_yamamoto",
             "url": "https://www.instagram.com/rihito_yamamoto/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 6,
@@ -354,7 +471,20 @@ const TEAMS_DATA = [
             "handle": "@sota_kawasaki",
             "url": "https://www.instagram.com/sota_kawasaki/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 13,
@@ -387,7 +517,20 @@ const TEAMS_DATA = [
             "handle": "@ryotaro_araki_13",
             "url": "https://www.instagram.com/ryotaro_araki_13/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 10,
@@ -420,7 +563,20 @@ const TEAMS_DATA = [
             "handle": "@koki_saito_10",
             "url": "https://www.instagram.com/koki_saito_10/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 14,
@@ -453,7 +609,20 @@ const TEAMS_DATA = [
             "handle": "@shunsuke_mito",
             "url": "https://www.instagram.com/shunsuke_mito/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 20,
@@ -486,7 +655,20 @@ const TEAMS_DATA = [
             "handle": "@fuki_yamada",
             "url": "https://www.instagram.com/fuki_yamada/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 17,
@@ -519,7 +701,20 @@ const TEAMS_DATA = [
             "handle": "@yu_hirakawa_17",
             "url": "https://www.instagram.com/yu_hirakawa_17/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 11,
@@ -552,7 +747,20 @@ const TEAMS_DATA = [
             "handle": "@kein_sato_11",
             "url": "https://www.instagram.com/kein_sato_11/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 9,
@@ -587,7 +795,20 @@ const TEAMS_DATA = [
             "handle": "@maohosoya_9",
             "url": "https://www.instagram.com/maohosoya_9/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 19,
@@ -620,7 +841,20 @@ const TEAMS_DATA = [
             "handle": "@shota_fujio_19",
             "url": "https://www.instagram.com/shota_fujio_19/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 15,
@@ -652,7 +886,20 @@ const TEAMS_DATA = [
             "handle": "@kaito_suzuki_15",
             "url": "https://www.instagram.com/kaito_suzuki_15/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 18,
@@ -685,7 +932,20 @@ const TEAMS_DATA = [
             "handle": "@kotaro_uchino_18",
             "url": "https://www.instagram.com/kotaro_uchino_18/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 21,
@@ -718,7 +978,20 @@ const TEAMS_DATA = [
             "handle": "@hiromu_uemura",
             "url": "https://www.instagram.com/hiromu_uemura/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 22,
@@ -750,9 +1023,34 @@ const TEAMS_DATA = [
             "handle": "@masato_sasaki_22",
             "url": "https://www.instagram.com/masato_sasaki_22/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（大会2連覇達成）",
+          "teamEvent": "男子サッカー",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "finalScene": {
+            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       }
-    ]
+    ],
+    "tournamentResult": {
+      "medal": "gold",
+      "rank": "金メダル 🥇（大会2連覇達成）",
+      "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+      "detail": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+      "finalScene": {
+        "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
+        "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+      }
+    }
   },
   {
     "id": "football-women",
@@ -807,7 +1105,20 @@ const TEAMS_DATA = [
             "handle": "@ayaka_yamashita_1",
             "url": "https://www.instagram.com/ayaka_yamashita_1/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 4,
@@ -846,7 +1157,20 @@ const TEAMS_DATA = [
             "handle": "@kumagai1017",
             "url": "https://x.com/kumagai1017"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 2,
@@ -879,7 +1203,20 @@ const TEAMS_DATA = [
             "handle": "@risa_shimizu_2",
             "url": "https://www.instagram.com/risa_shimizu_2/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 14,
@@ -918,7 +1255,20 @@ const TEAMS_DATA = [
             "handle": "@maybe_yuiko",
             "url": "https://x.com/maybe_yuiko"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 10,
@@ -951,7 +1301,20 @@ const TEAMS_DATA = [
             "handle": "@fuka_nagano",
             "url": "https://www.instagram.com/fuka_nagano/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 15,
@@ -984,7 +1347,20 @@ const TEAMS_DATA = [
             "handle": "@aoba_fujino",
             "url": "https://www.instagram.com/aoba_fujino/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 7,
@@ -1017,7 +1393,20 @@ const TEAMS_DATA = [
             "handle": "@hinata_1128",
             "url": "https://www.instagram.com/hinata_1128/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 11,
@@ -1051,7 +1440,20 @@ const TEAMS_DATA = [
             "handle": "@minatanaka_official",
             "url": "https://www.instagram.com/minatanaka_official/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 9,
@@ -1084,7 +1486,20 @@ const TEAMS_DATA = [
             "handle": "@rk_u_9",
             "url": "https://www.instagram.com/rk_u_9/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 12,
@@ -1117,7 +1532,20 @@ const TEAMS_DATA = [
             "handle": "@momoko_tanikawa",
             "url": "https://www.instagram.com/momoko_tanikawa/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 18,
@@ -1150,7 +1578,20 @@ const TEAMS_DATA = [
             "handle": "@chika_hirao",
             "url": "https://www.instagram.com/chika_hirao/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 21,
@@ -1183,7 +1624,20 @@ const TEAMS_DATA = [
             "handle": "@shu_oba_21",
             "url": "https://www.instagram.com/shu_oba_21/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 3,
@@ -1216,7 +1670,20 @@ const TEAMS_DATA = [
             "handle": "@moeka_minami",
             "url": "https://www.instagram.com/moeka_minami/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 4,
@@ -1249,7 +1716,20 @@ const TEAMS_DATA = [
             "handle": "@hana_takahashi_",
             "url": "https://www.instagram.com/hana_takahashi_/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 5,
@@ -1282,7 +1762,20 @@ const TEAMS_DATA = [
             "handle": "@toko_koga0106",
             "url": "https://www.instagram.com/toko_koga0106/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 13,
@@ -1315,7 +1808,20 @@ const TEAMS_DATA = [
             "handle": "@spkf_hkr",
             "url": "https://www.instagram.com/spkf_hkr/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 2,
@@ -1348,7 +1854,20 @@ const TEAMS_DATA = [
             "handle": "@miyabi_moriya2",
             "url": "https://www.instagram.com/miyabi_moriya2/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 16,
@@ -1381,7 +1900,20 @@ const TEAMS_DATA = [
             "handle": "@honoka_h0519",
             "url": "https://www.instagram.com/honoka_h0519/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 17,
@@ -1414,7 +1946,20 @@ const TEAMS_DATA = [
             "handle": "@kiko_seike",
             "url": "https://www.instagram.com/kiko_seike/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 15,
@@ -1447,7 +1992,20 @@ const TEAMS_DATA = [
             "handle": "@nicole10_official",
             "url": "https://www.instagram.com/nicole10_official/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 19,
@@ -1480,7 +2038,20 @@ const TEAMS_DATA = [
             "handle": "@remina_chiba",
             "url": "https://www.instagram.com/remina_chiba/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       },
       {
         "no": 22,
@@ -1513,9 +2084,34 @@ const TEAMS_DATA = [
             "handle": "@maika_hamano",
             "url": "https://www.instagram.com/maika_hamano/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア王座奪還）",
+          "teamEvent": "女子サッカー",
+          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "finalScene": {
+            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+          }
+        }
       }
-    ]
+    ],
+    "tournamentResult": {
+      "medal": "gold",
+      "rank": "金メダル 🥇（アジア王座奪還）",
+      "scoreSummary": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
+      "detail": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+      "finalScene": {
+        "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
+        "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+      }
+    }
   },
   {
     "id": "basketball-men",
@@ -1577,7 +2173,20 @@ const TEAMS_DATA = [
             "handle": "@KawamuraYuki",
             "url": "https://x.com/KawamuraYuki"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 2,
@@ -1616,7 +2225,20 @@ const TEAMS_DATA = [
             "handle": "@YukiTogashi",
             "url": "https://x.com/YukiTogashi"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 6,
@@ -1649,7 +2271,20 @@ const TEAMS_DATA = [
             "handle": "@m_hiejima6",
             "url": "https://www.instagram.com/m_hiejima6/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 8,
@@ -1687,7 +2322,20 @@ const TEAMS_DATA = [
             "handle": "@rui_8mura",
             "url": "https://x.com/rui_8mura"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 12,
@@ -1726,7 +2374,20 @@ const TEAMS_DATA = [
             "handle": "@wacchi1013",
             "url": "https://x.com/wacchi1013"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 24,
@@ -1760,7 +2421,20 @@ const TEAMS_DATA = [
             "handle": "@j_hawk24",
             "url": "https://www.instagram.com/j_hawk24/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 30,
@@ -1793,7 +2467,20 @@ const TEAMS_DATA = [
             "handle": "@keisei.tominaga",
             "url": "https://www.instagram.com/keisei.tominaga/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 18,
@@ -1826,7 +2513,20 @@ const TEAMS_DATA = [
             "handle": "@bballbaba",
             "url": "https://www.instagram.com/bballbaba/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 91,
@@ -1859,7 +2559,20 @@ const TEAMS_DATA = [
             "handle": "@hirotaka_yoshii",
             "url": "https://www.instagram.com/hirotaka_yoshii/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 33,
@@ -1892,7 +2605,20 @@ const TEAMS_DATA = [
             "handle": "@hugh_watanabe",
             "url": "https://www.instagram.com/hugh_watanabe/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 7,
@@ -1925,7 +2651,20 @@ const TEAMS_DATA = [
             "handle": "@k_toews",
             "url": "https://www.instagram.com/k_toews/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 4,
@@ -1958,9 +2697,34 @@ const TEAMS_DATA = [
             "handle": "@akira_jacobs",
             "url": "https://www.instagram.com/akira_jacobs/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "silver",
+          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+          "teamEvent": "男子5人制",
+          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
+          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "finalScene": {
+            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+          }
+        }
       }
-    ]
+    ],
+    "tournamentResult": {
+      "medal": "silver",
+      "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
+      "scoreSummary": "決勝: 日本 78-82 中国（IGアリーナ）",
+      "detail": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+      "finalScene": {
+        "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
+        "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+      }
+    }
   },
   {
     "id": "volleyball-men",
@@ -2021,7 +2785,20 @@ const TEAMS_DATA = [
             "handle": "石川祐希オフィシャルファンクラブ",
             "url": "https://yuki-ishikawa.com"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 12,
@@ -2060,7 +2837,20 @@ const TEAMS_DATA = [
             "handle": "@Ran_volley0902",
             "url": "https://x.com/Ran_volley0902"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 1,
@@ -2099,7 +2889,20 @@ const TEAMS_DATA = [
             "handle": "西田有志チャンネル",
             "url": "https://www.youtube.com/@yujinishida"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 8,
@@ -2132,7 +2935,20 @@ const TEAMS_DATA = [
             "handle": "@sekitamasahiro",
             "url": "https://www.instagram.com/sekitamasahiro/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 20,
@@ -2165,7 +2981,20 @@ const TEAMS_DATA = [
             "handle": "@tomohiro_yamamoto",
             "url": "https://www.instagram.com/tomohiro_yamamoto/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 6,
@@ -2198,7 +3027,20 @@ const TEAMS_DATA = [
             "handle": "@yamauchi_akihiro",
             "url": "https://www.instagram.com/yamauchi_akihiro/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 2,
@@ -2231,7 +3073,20 @@ const TEAMS_DATA = [
             "handle": "@taishi_onodera",
             "url": "https://www.instagram.com/taishi_onodera/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 4,
@@ -2264,7 +3119,20 @@ const TEAMS_DATA = [
             "handle": "@kento_miyaura",
             "url": "https://www.instagram.com/kento_miyaura/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 10,
@@ -2297,7 +3165,20 @@ const TEAMS_DATA = [
             "handle": "@kento_takahashi_",
             "url": "https://www.instagram.com/kento_takahashi_/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 15,
@@ -2330,7 +3211,20 @@ const TEAMS_DATA = [
             "handle": "@kai_masato_",
             "url": "https://www.instagram.com/kai_masato_/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 9,
@@ -2363,7 +3257,20 @@ const TEAMS_DATA = [
             "handle": "@shoma_tomita",
             "url": "https://www.instagram.com/shoma_tomita/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 13,
@@ -2396,7 +3303,20 @@ const TEAMS_DATA = [
             "handle": "@tomohiro_ogawa_13",
             "url": "https://www.instagram.com/tomohiro_ogawa_13/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 5,
@@ -2429,7 +3349,20 @@ const TEAMS_DATA = [
             "handle": "@tatsunori_otsuka",
             "url": "https://www.instagram.com/tatsunori_otsuka/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 3,
@@ -2462,9 +3395,34 @@ const TEAMS_DATA = [
             "handle": "@fukatsu_akihiro",
             "url": "https://www.instagram.com/fukatsu_akihiro/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+          "teamEvent": "男子バレーボール",
+          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "finalScene": {
+            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+          }
+        }
       }
-    ]
+    ],
+    "tournamentResult": {
+      "medal": "gold",
+      "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
+      "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
+      "detail": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+      "finalScene": {
+        "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
+        "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+      }
+    }
   },
   {
     "id": "baseball-men",
@@ -2519,7 +3477,20 @@ const TEAMS_DATA = [
             "handle": "トヨタ自動車硬式野球部",
             "url": "https://sports.gazoo.com/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 1,
@@ -2553,7 +3524,20 @@ const TEAMS_DATA = [
             "handle": "トヨタ自動車硬式野球部",
             "url": "https://sports.gazoo.com/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 25,
@@ -2586,7 +3570,20 @@ const TEAMS_DATA = [
             "handle": "NTT東日本野球部",
             "url": "https://www.ntt-east.co.jp/symbol/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 22,
@@ -2619,7 +3616,20 @@ const TEAMS_DATA = [
             "handle": "西濃運輸野球部",
             "url": "https://www.seino.co.jp/seino/sports/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 15,
@@ -2652,7 +3662,20 @@ const TEAMS_DATA = [
             "handle": "Honda熊本硬式野球部",
             "url": "https://www.honda-kumamoto.jp/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 16,
@@ -2686,7 +3709,20 @@ const TEAMS_DATA = [
             "handle": "トヨタ自動車硬式野球部",
             "url": "https://sports.gazoo.com/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 17,
@@ -2719,7 +3755,20 @@ const TEAMS_DATA = [
             "handle": "NTT東日本シンボルチーム",
             "url": "https://www.ntt-east.co.jp/symbol/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 19,
@@ -2752,7 +3801,20 @@ const TEAMS_DATA = [
             "handle": "トヨタ自動車硬式野球部",
             "url": "https://sports.gazoo.com/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 20,
@@ -2785,7 +3847,20 @@ const TEAMS_DATA = [
             "handle": "@ryusei_gonda",
             "url": "https://www.instagram.com/ryusei_gonda/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 21,
@@ -2818,7 +3893,20 @@ const TEAMS_DATA = [
             "handle": "ENEOS野球部",
             "url": "https://www.eneos.co.jp/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 22,
@@ -2851,7 +3939,20 @@ const TEAMS_DATA = [
             "handle": "Honda硬式野球部",
             "url": "https://www.honda.co.jp/sports/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 27,
@@ -2884,7 +3985,20 @@ const TEAMS_DATA = [
             "handle": "Honda硬式野球部",
             "url": "https://www.honda.co.jp/sports/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 2,
@@ -2917,7 +4031,20 @@ const TEAMS_DATA = [
             "handle": "NTT東日本シンボルチーム",
             "url": "https://www.ntt-east.co.jp/symbol/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 4,
@@ -2950,7 +4077,20 @@ const TEAMS_DATA = [
             "handle": "日本通運硬式野球部",
             "url": "https://www.nittsu.co.jp/sports/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 5,
@@ -2983,7 +4123,20 @@ const TEAMS_DATA = [
             "handle": "東芝ブレイブサンダース/野球部",
             "url": "https://www.toshiba.co.jp/sports/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 6,
@@ -3016,7 +4169,20 @@ const TEAMS_DATA = [
             "handle": "@nakagawa_hiroki_",
             "url": "https://www.instagram.com/nakagawa_hiroki_/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 8,
@@ -3049,7 +4215,20 @@ const TEAMS_DATA = [
             "handle": "東京ガス硬式野球部",
             "url": "https://www.tokyo-gas.co.jp/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 9,
@@ -3082,7 +4261,20 @@ const TEAMS_DATA = [
             "handle": "トヨタ自動車硬式野球部",
             "url": "https://sports.gazoo.com/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 24,
@@ -3115,7 +4307,20 @@ const TEAMS_DATA = [
             "handle": "Honda硬式野球部",
             "url": "https://www.honda.co.jp/sports/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 25,
@@ -3148,7 +4353,20 @@ const TEAMS_DATA = [
             "handle": "JR東日本硬式野球部",
             "url": "https://www.jreast.co.jp/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 12,
@@ -3181,7 +4399,20 @@ const TEAMS_DATA = [
             "handle": "JR東日本硬式野球部",
             "url": "https://www.jreast.co.jp/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 18,
@@ -3214,7 +4445,20 @@ const TEAMS_DATA = [
             "handle": "日本通運硬式野球部",
             "url": "https://www.nittsu.co.jp/sports/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 28,
@@ -3247,7 +4491,20 @@ const TEAMS_DATA = [
             "handle": "東芝ブレイブサンダース/野球部",
             "url": "https://www.toshiba.co.jp/sports/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 1,
@@ -3280,9 +4537,34 @@ const TEAMS_DATA = [
             "handle": "ENEOS野球部",
             "url": "https://www.eneos.co.jp/baseball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+          "teamEvent": "男子野球",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "finalScene": {
+            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+          }
+        }
       }
-    ]
+    ],
+    "tournamentResult": {
+      "medal": "gold",
+      "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
+      "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+      "detail": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+      "finalScene": {
+        "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
+        "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+      }
+    }
   },
   {
     "id": "softball-women",
@@ -3337,7 +4619,20 @@ const TEAMS_DATA = [
             "handle": "@miugoto_47",
             "url": "https://www.instagram.com/miugoto_47/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 7,
@@ -3370,7 +4665,20 @@ const TEAMS_DATA = [
             "handle": "@yukiko_ueno_official",
             "url": "https://www.instagram.com/yukiko_ueno_official/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 25,
@@ -3403,7 +4711,20 @@ const TEAMS_DATA = [
             "handle": "ビックカメラ高崎ソフトボール部",
             "url": "https://www.biccamera.co.jp/sports/softball/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 10,
@@ -3436,7 +4757,20 @@ const TEAMS_DATA = [
             "handle": "@minori_naito_10",
             "url": "https://www.instagram.com/minori_naito_10/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 14,
@@ -3469,7 +4803,20 @@ const TEAMS_DATA = [
             "handle": "@misaki_katsumata",
             "url": "https://www.instagram.com/misaki_katsumata/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 19,
@@ -3502,7 +4849,20 @@ const TEAMS_DATA = [
             "handle": "@sakura_miwa19",
             "url": "https://www.instagram.com/sakura_miwa19/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 2,
@@ -3535,7 +4895,20 @@ const TEAMS_DATA = [
             "handle": "@yume_kiriishi",
             "url": "https://www.instagram.com/yume_kiriishi/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 1,
@@ -3568,7 +4941,20 @@ const TEAMS_DATA = [
             "handle": "@kyoko_ishikawa_1",
             "url": "https://www.instagram.com/kyoko_ishikawa_1/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 6,
@@ -3601,7 +4987,20 @@ const TEAMS_DATA = [
             "handle": "@kanna_kudo_6",
             "url": "https://www.instagram.com/kanna_kudo_6/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 23,
@@ -3634,7 +5033,20 @@ const TEAMS_DATA = [
             "handle": "@yui_sakamoto_23",
             "url": "https://www.instagram.com/yui_sakamoto_23/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 3,
@@ -3667,7 +5079,20 @@ const TEAMS_DATA = [
             "handle": "@kawabata_hitomi3",
             "url": "https://www.instagram.com/kawabata_hitomi3/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 11,
@@ -3700,7 +5125,20 @@ const TEAMS_DATA = [
             "handle": "@nodoka_harada11",
             "url": "https://www.instagram.com/nodoka_harada11/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 8,
@@ -3733,7 +5171,20 @@ const TEAMS_DATA = [
             "handle": "@ayane_nakagawa8",
             "url": "https://www.instagram.com/ayane_nakagawa8/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 9,
@@ -3766,7 +5217,20 @@ const TEAMS_DATA = [
             "handle": "@shiho_sudo9",
             "url": "https://www.instagram.com/shiho_sudo9/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       },
       {
         "no": 12,
@@ -3799,13 +5263,38 @@ const TEAMS_DATA = [
             "handle": "@china_tsukamoto12",
             "url": "https://www.instagram.com/china_tsukamoto12/"
           }
-        ]
+        ],
+        "tournamentResult": {
+          "medal": "gold",
+          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+          "teamEvent": "女子ソフトボール",
+          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "finalScene": {
+            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+          }
+        }
       }
-    ]
+    ],
+    "tournamentResult": {
+      "medal": "gold",
+      "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
+      "scoreSummary": "決勝: 日本 2-0 中国（安城市総合運動公園）",
+      "detail": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+      "finalScene": {
+        "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
+        "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+      }
+    }
   }
 ];
 
 // Node.js環境用エクスポート
-if (typeof module !== "undefined" && module.exports) {
+if (typeof module !== 'undefined' && module.exports) {
   module.exports = { TEAMS_DATA };
 }

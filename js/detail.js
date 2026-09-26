@@ -174,6 +174,32 @@ document.addEventListener('DOMContentLoaded', () => {
           </div>
         </div>
 
+        <!-- 今大会結果＆最後のシーン -->
+        ${athlete.tournamentResult ? `
+        <section class="section-block tournament-result-block">
+          <h2 class="section-header-title">
+            <span class="sec-icon">🏅</span>
+            <span>愛知・名古屋2026 今大会最終結果</span>
+          </h2>
+          <div class="modal-result-box" style="margin-bottom: 24px;">
+            <div class="modal-result-header">
+              <span class="modal-result-rank">${athlete.tournamentResult.rank}</span>
+              <span class="modal-result-record">${athlete.tournamentResult.record}</span>
+            </div>
+            <p style="font-size: 0.92rem; color: #f1f5f9; line-height: 1.6; margin: 0 0 14px;">${athlete.tournamentResult.summary}</p>
+            ${athlete.tournamentResult.finalScene ? `
+            <div style="background: rgba(0,0,0,0.35); border-radius: 8px; padding: 12px 14px;">
+              <div style="font-size: 0.85rem; font-weight: 800; color: #f87171; margin-bottom: 4px;">🎬 最後のシーン（決定的瞬間・ハイライト）</div>
+              <div style="font-size: 0.85rem; color: #cbd5e0; margin-bottom: 10px; line-height: 1.5;">${athlete.tournamentResult.finalScene.description}</div>
+              <a href="${athlete.tournamentResult.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link" style="font-size: 0.82rem; padding: 7px 16px;">
+                <span>▶️</span> <span>【${athlete.tournamentResult.finalScene.platform}】${athlete.tournamentResult.finalScene.title} を見る</span>
+              </a>
+            </div>
+            ` : ''}
+          </div>
+        </section>
+        ` : ''}
+
         <!-- 選手経歴・ストーリー -->
         <section class="section-block">
           <h2 class="section-header-title">

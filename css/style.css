@@ -1499,3 +1499,213 @@ button {
   }
 }
 
+/* ========================================================
+   今大会結果・メダル色フィルター ＆ 最後のシーン スタイル
+   ======================================================== */
+
+.medal-filter-bar {
+  margin: 14px 0 16px;
+  background: linear-gradient(135deg, rgba(25, 18, 48, 0.9), rgba(12, 16, 32, 0.95));
+  border: 1.5px solid rgba(229, 169, 60, 0.35);
+  border-radius: 14px;
+  padding: 12px 18px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+}
+
+.medal-filter-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 10px;
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.medal-filter-hint {
+  font-size: 0.75rem;
+  color: var(--color-gold-light);
+  font-weight: 600;
+}
+
+.medal-filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.medal-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 9999px;
+  color: #e2e8f0;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.medal-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.medal-btn.active {
+  color: #0b1326;
+  font-weight: 800;
+  border-color: #ffffff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* 各メダルボタン配色 */
+.medal-btn[data-medal="all"].active {
+  background: linear-gradient(135deg, #a78bfa, #7c3aed);
+  color: #ffffff;
+}
+
+.medal-btn.gold.active {
+  background: linear-gradient(135deg, #ffd700, #d4af37, #b8860b);
+  color: #0a0e1a;
+  box-shadow: 0 0 16px rgba(255, 215, 0, 0.5);
+}
+
+.medal-btn.silver.active {
+  background: linear-gradient(135deg, #f1f5f9, #cbd5e1, #94a3b8);
+  color: #0a0e1a;
+  box-shadow: 0 0 16px rgba(203, 213, 225, 0.4);
+}
+
+.medal-btn.bronze.active {
+  background: linear-gradient(135deg, #f97316, #cd7f32, #92400e);
+  color: #ffffff;
+  box-shadow: 0 0 16px rgba(205, 127, 50, 0.5);
+}
+
+.medal-count-badge {
+  font-size: 0.72rem;
+  background: rgba(0, 0, 0, 0.35);
+  padding: 1px 7px;
+  border-radius: 10px;
+  color: inherit;
+  font-weight: 800;
+}
+
+.medal-btn.active .medal-count-badge {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+/* カード上のメダル結果バッジ */
+.card-result-badge {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+.card-result-badge.gold {
+  background: linear-gradient(135deg, rgba(255, 215, 0, 0.22), rgba(212, 175, 55, 0.1));
+  border: 1px solid #ffd700;
+  color: #ffea79;
+}
+
+.card-result-badge.silver {
+  background: linear-gradient(135deg, rgba(203, 213, 225, 0.2), rgba(148, 163, 184, 0.1));
+  border: 1px solid #cbd5e1;
+  color: #f1f5f9;
+}
+
+.card-result-badge.bronze {
+  background: linear-gradient(135deg, rgba(205, 127, 50, 0.22), rgba(146, 64, 14, 0.1));
+  border: 1px solid #cd7f32;
+  color: #fdba74;
+}
+
+/* 最後のシーン・ハイライトボックス */
+.card-final-scene-box {
+  background: rgba(220, 38, 38, 0.08);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 14px;
+}
+
+.final-scene-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: #f87171;
+  margin-bottom: 4px;
+}
+
+.final-scene-desc {
+  font-size: 0.78rem;
+  color: #cbd5e0;
+  line-height: 1.45;
+  margin-bottom: 8px;
+}
+
+.btn-final-scene-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, #ef4444, #b91c1c);
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 5px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(239, 68, 68, 0.35);
+}
+
+.btn-final-scene-link:hover {
+  background: linear-gradient(135deg, #dc2626, #991b1b);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.5);
+  color: #ffffff;
+}
+
+/* モーダル内ハイライト映像ボックス */
+.modal-result-box {
+  background: linear-gradient(135deg, rgba(220, 38, 38, 0.12), rgba(15, 23, 42, 0.6));
+  border: 1.5px solid #ef4444;
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 18px;
+}
+
+.modal-result-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.modal-result-rank {
+  font-size: 1.1rem;
+  font-weight: 900;
+  color: #ffffff;
+}
+
+.modal-result-record {
+  font-size: 0.85rem;
+  color: var(--color-gold-light);
+  font-weight: 700;
+}
+
+

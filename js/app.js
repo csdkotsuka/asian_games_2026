@@ -2,6 +2,7 @@
  * 愛知・名古屋2026 アジア大会
  * 選手一覧ポータル アプリケーションロジック (app.js)
  * 個人注目選手名鑑 (25名) ＆ チームスポーツ全登録選手名鑑 (6競技109名)
+ * 今大会結果（メダル絞り込み）＆ 最後のシーンハイライトリンク対応
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -19,6 +20,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalCloseBtn = document.getElementById('modalCloseBtn');
   const modalContentInner = document.getElementById('modalContentInner');
 
+  // メダル色フィルター要素
+  const medalFilterButtons = document.getElementById('medalFilterButtons');
+  const goldCountBadge = document.getElementById('goldCountBadge');
+  const silverCountBadge = document.getElementById('silverCountBadge');
+  const bronzeCountBadge = document.getElementById('bronzeCountBadge');
+
   // チームスポーツ専用UI要素
   const btnModeIndividual = document.getElementById('btnModeIndividual');
   const btnModeTeam = document.getElementById('btnModeTeam');
@@ -29,6 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // 状態管理
   let viewMode = 'individual'; // 'individual' | 'team'
   let currentCategory = 'all';
+  let currentMedal = 'all'; // 'all' | 'gold' | 'silver' | 'bronze'
   let currentTeamId = 'football-men'; // チーム種目ID ('football-men', 'football-women', etc., or 'all')
   let currentPosition = 'all'; // チーム内ポジション絞り込み
   let currentSearchQuery = '';
@@ -37,14 +45,27 @@ document.addEventListener('DOMContentLoaded', () => {
   let isFavOnly = false;
   let favorites = getStoredFavorites();
 
-  // お気に入り復元＆初期更新
+  // 初期化
   updateFavBadge();
+  updateMedalCounts();
   populateEventSelect();
   renderAthletes();
 
   // ==========================================
   // イベントリスナー設定
   // ==========================================
+
+  // メダル色絞り込みボタン
+  medalFilterButtons?.addEventListener('click', (e) => {
+    const btn = e.target.closest('.medal-btn');
+    if (!btn) return;
+
+    medalFilterButtons.querySelectorAll('.medal-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    currentMedal = btn.dataset.medal;
+    renderAthletes();
+  });
 
   // 表示モード切り替え (個人注目選手 vs チームスポーツ全登録ロスター)
   btnModeIndividual?.addEventListener('click', () => {
@@ -172,6 +193,25 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ==========================================
+  // メダル獲得数カウントの更新
+  // ==========================================
+  function updateMedalCounts() {
+    let gold = 0, silver = 0, bronze = 0;
+
+    // 個人選手
+    ATHLETES_DATA.forEach(a => {
+      const m = a.tournamentResult?.medal;
+      if (m === 'gold') gold++;
+      else if (m === 'silver') silver++;
+      else if (m === 'bronze') bronze++;
+    });
+
+    if (goldCountBadge) goldCountBadge.textContent = gold;
+    if (silverCountBadge) silverCountBadge.textContent = silver;
+    if (bronzeCountBadge) bronzeCountBadge.textContent = bronze;
+  }
+
+  // ==========================================
   // モード切り替え関数
   // ==========================================
   function switchViewMode(mode, resetFilters = true) {
@@ -267,22 +307,27 @@ document.addEventListener('DOMContentLoaded', () => {
   function renderIndividualAthletes() {
     let list = [...ATHLETES_DATA];
 
-    // 1. カテゴリ絞り込み
+    // 1. メダル色絞り込み
+    if (currentMedal !== 'all') {
+      list = list.filter(a => a.tournamentResult?.medal === currentMedal);
+    }
+
+    // 2. カテゴリ絞り込み
     if (currentCategory !== 'all') {
       list = list.filter(a => a.category === currentCategory);
     }
 
-    // 2. 種目絞り込み
+    // 3. 種目絞り込み
     if (currentEvent !== 'all') {
       list = list.filter(a => a.event === currentEvent);
     }
 
-    // 3. お気に入り絞り込み
+    // 4. お気に入り絞り込み
     if (isFavOnly) {
       list = list.filter(a => favorites.includes(a.id));
     }
 
-    // 4. ソート
+    // 5. ソート
     if (currentSort === 'kana') {
       list.sort((a, b) => a.kana.localeCompare(b.kana, 'ja'));
     } else if (currentSort === 'sport') {
@@ -301,6 +346,8 @@ document.addEventListener('DOMContentLoaded', () => {
       const badgesHtml = (athlete.badges || []).slice(0, 3).map(b => 
         `<span class="honor-badge">${b}</span>`
       ).join('');
+
+      const res = athlete.tournamentResult;
 
       return `
         <article class="athlete-card" data-id="${athlete.id}">
@@ -324,6 +371,14 @@ document.addEventListener('DOMContentLoaded', () => {
               <span>🏢</span> ${athlete.affiliation}
             </div>
 
+            ${res ? `
+            <div class="card-result-badge ${res.medal}">
+              <span>${res.rank}</span>
+              <span>•</span>
+              <span>${res.record}</span>
+            </div>
+            ` : ''}
+
             <div class="card-badges-row">
               ${badgesHtml}
             </div>
@@ -335,6 +390,18 @@ document.addEventListener('DOMContentLoaded', () => {
             <p class="card-summary">
               ${athlete.summary}
             </p>
+
+            ${res?.finalScene ? `
+            <div class="card-final-scene-box">
+              <div class="final-scene-title">
+                <span>🎬</span> <span>最後のシーン（決定的瞬間）</span>
+              </div>
+              <div class="final-scene-desc">${res.finalScene.title}</div>
+              <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link" onclick="event.stopPropagation();">
+                <span>▶️</span> <span>${res.finalScene.platform}で最後のシーンを見る</span>
+              </a>
+            </div>
+            ` : ''}
 
             ${athlete.critique?.summaryVerdict ? `
             <div class="card-verdict-box">
@@ -394,6 +461,11 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
 
+    // メダル絞り込み（チーム単位または選手単位）
+    if (currentMedal !== 'all') {
+      targetTeams = targetTeams.filter(t => t.tournamentResult?.medal === currentMedal);
+    }
+
     // 選手ロスターの抽出
     let athleteList = [];
     targetTeams.forEach(team => {
@@ -403,7 +475,8 @@ document.addEventListener('DOMContentLoaded', () => {
           teamId: team.id,
           teamName: team.teamName,
           sport: team.sport,
-          event: team.event
+          event: team.event,
+          teamResult: team.tournamentResult
         });
       });
     });
@@ -426,7 +499,6 @@ document.addEventListener('DOMContentLoaded', () => {
     } else if (currentSort === 'sport') {
       athleteList.sort((a, b) => (a.sport + a.event).localeCompare(b.sport + b.event, 'ja'));
     }
-    // 'default' はチームロスター登録順
 
     currentCount.textContent = athleteList.length;
 
@@ -440,6 +512,8 @@ document.addEventListener('DOMContentLoaded', () => {
       const badgesHtml = (athlete.badges || []).slice(0, 3).map(b => 
         `<span class="roster-chip">${b}</span>`
       ).join('');
+
+      const res = athlete.tournamentResult || athlete.teamResult;
 
       return `
         <article class="roster-card" data-team-athlete-id="${athlete.id}">
@@ -463,6 +537,14 @@ document.addEventListener('DOMContentLoaded', () => {
               <span>🏢</span> ${athlete.affiliation}
             </div>
 
+            ${res ? `
+            <div class="card-result-badge ${res.medal}">
+              <span>${res.rank}</span>
+              <span>•</span>
+              <span>${res.record || res.scoreSummary}</span>
+            </div>
+            ` : ''}
+
             <div class="roster-meta-chips">
               <span class="roster-chip">${athlete.heightWeight}</span>
               <span class="roster-chip">${athlete.age}歳</span>
@@ -472,6 +554,18 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="roster-playstyle">
               <strong>プレイスタイル:</strong> ${athlete.playStyle}
             </div>
+
+            ${res?.finalScene ? `
+            <div class="card-final-scene-box">
+              <div class="final-scene-title">
+                <span>🎬</span> <span>チーム最後のシーン（ハイライト）</span>
+              </div>
+              <div class="final-scene-desc">${res.finalScene.title}</div>
+              <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link" onclick="event.stopPropagation();">
+                <span>▶️</span> <span>${res.finalScene.platform}で最後のシーンを見る</span>
+              </a>
+            </div>
+            ` : ''}
 
             ${athlete.critique ? `
             <div class="roster-critique-box">
@@ -515,6 +609,8 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!teamHeaderContainer) return;
     teamHeaderContainer.style.display = 'block';
 
+    const res = team.tournamentResult;
+
     // ポジション集計
     const posCounts = {};
     team.athletes.forEach(a => {
@@ -535,9 +631,22 @@ document.addEventListener('DOMContentLoaded', () => {
             <h2>${team.teamName}</h2>
           </div>
           <div class="team-badge-goal">
-            <span>🎯 目標:</span> <span>${team.medalGoal}</span>
+            <span>🎯 最終結果:</span> <span>${res ? res.rank : team.medalGoal}</span>
           </div>
         </div>
+
+        ${res ? `
+        <div class="modal-result-box" style="margin-bottom: 14px;">
+          <div class="modal-result-header">
+            <span class="modal-result-rank">${res.rank}</span>
+            <span class="modal-result-record">${res.scoreSummary}</span>
+          </div>
+          <p style="font-size: 0.85rem; color: #e2e8f0; line-height: 1.5; margin: 0 0 10px;">${res.detail}</p>
+          <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link">
+            <span>▶️</span> <span>【${res.finalScene.platform}】${res.finalScene.title}を見る</span>
+          </a>
+        </div>
+        ` : ''}
 
         <div class="team-slogan-box">
           <p class="team-slogan-text">💬 「${team.slogan}」</p>
@@ -587,22 +696,28 @@ document.addEventListener('DOMContentLoaded', () => {
     if (teamHeaderContainer) teamHeaderContainer.style.display = 'none';
 
     // 1. 個人選手から検索
-    const matchedIndividuals = ATHLETES_DATA.filter(a => {
+    let matchedIndividuals = ATHLETES_DATA.filter(a => {
       const targetStr = [
         a.name, a.kana, a.romaji, a.sport, a.event, a.affiliation, a.birthPlace, a.summary,
+        a.tournamentResult?.rank, a.tournamentResult?.record,
         ...(a.badges || [])
       ].join(' ').toLowerCase();
       return targetStr.includes(currentSearchQuery);
     });
 
+    if (currentMedal !== 'all') {
+      matchedIndividuals = matchedIndividuals.filter(a => a.tournamentResult?.medal === currentMedal);
+    }
+
     // 2. チーム所属選手から検索
-    const matchedTeamAthletes = [];
+    let matchedTeamAthletes = [];
     if (typeof TEAMS_DATA !== 'undefined') {
       TEAMS_DATA.forEach(team => {
         team.athletes.forEach(athlete => {
           const targetStr = [
             athlete.name, athlete.kana, athlete.romaji, athlete.pos, athlete.posName,
             athlete.affiliation, athlete.playStyle, team.teamName, team.sport, team.event,
+            team.tournamentResult?.rank,
             athlete.critique?.positive, athlete.critique?.critical,
             ...(athlete.badges || [])
           ].join(' ').toLowerCase();
@@ -613,11 +728,16 @@ document.addEventListener('DOMContentLoaded', () => {
               teamId: team.id,
               teamName: team.teamName,
               sport: team.sport,
-              event: team.event
+              event: team.event,
+              teamResult: team.tournamentResult
             });
           }
         });
       });
+    }
+
+    if (currentMedal !== 'all') {
+      matchedTeamAthletes = matchedTeamAthletes.filter(a => (a.tournamentResult?.medal === currentMedal || a.teamResult?.medal === currentMedal));
     }
 
     const totalCount = matchedIndividuals.length + matchedTeamAthletes.length;
@@ -634,6 +754,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (matchedIndividuals.length > 0) {
       html += matchedIndividuals.map(athlete => {
         const isFav = favorites.includes(athlete.id);
+        const res = athlete.tournamentResult;
         return `
           <article class="athlete-card" data-id="${athlete.id}">
             <div class="card-image-wrap">
@@ -652,7 +773,19 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h2 class="card-name">${athlete.name}</h2>
               </div>
               <div class="card-affiliation"><span>🏢</span> ${athlete.affiliation}</div>
+              ${res ? `
+              <div class="card-result-badge ${res.medal}">
+                <span>${res.rank}</span> <span>•</span> <span>${res.record}</span>
+              </div>
+              ` : ''}
               <p class="card-summary">${athlete.summary}</p>
+              ${res?.finalScene ? `
+              <div class="card-final-scene-box">
+                <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link" onclick="event.stopPropagation();">
+                  <span>▶️</span> <span>${res.finalScene.platform}で最後のシーンを見る</span>
+                </a>
+              </div>
+              ` : ''}
               <div class="card-footer-actions">
                 <a href="athletes/${athlete.id}.html" class="btn-detail">詳細プロフィール ➔</a>
                 <button class="btn-quick-view" data-quick-id="${athlete.id}">クイック表示</button>
@@ -667,6 +800,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (matchedTeamAthletes.length > 0) {
       html += matchedTeamAthletes.map(athlete => {
         const isFav = favorites.includes(athlete.id);
+        const res = athlete.tournamentResult || athlete.teamResult;
         return `
           <article class="roster-card" data-team-athlete-id="${athlete.id}">
             <div class="roster-card-image-wrap">
@@ -684,11 +818,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span class="roster-romaji">${athlete.teamName}</span>
               </div>
               <div class="roster-affiliation"><span>🏢</span> ${athlete.affiliation}</div>
+              ${res ? `
+              <div class="card-result-badge ${res.medal}">
+                <span>${res.rank}</span> <span>•</span> <span>${res.record || res.scoreSummary}</span>
+              </div>
+              ` : ''}
               <div class="roster-meta-chips">
                 <span class="roster-chip">${athlete.heightWeight}</span>
                 <span class="roster-chip">${athlete.age}歳</span>
               </div>
               <div class="roster-playstyle">${athlete.playStyle}</div>
+              ${res?.finalScene ? `
+              <div class="card-final-scene-box">
+                <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link" onclick="event.stopPropagation();">
+                  <span>▶️</span> <span>最後のシーンを見る</span>
+                </a>
+              </div>
+              ` : ''}
               <div class="roster-actions">
                 <button class="btn-roster-quick" data-team-quick-id="${athlete.id}">
                   チーム詳細・批評を見る ➔
@@ -796,6 +942,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const athlete = ATHLETES_DATA.find(a => a.id === id);
     if (!athlete) return;
 
+    const res = athlete.tournamentResult;
+
     modalContentInner.innerHTML = `
       <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px;">
         <img src="${athlete.photoUrl}" alt="${athlete.name}" style="width: 100px; height: 120px; object-fit: cover; object-position: ${athlete.photoPosition || 'center 20%'}; border-radius: 8px; border: 1px solid var(--color-gold);">
@@ -805,6 +953,25 @@ document.addEventListener('DOMContentLoaded', () => {
           <p style="font-size: 0.85rem; color: var(--color-text-muted);">${athlete.affiliation} | 出身: ${athlete.birthPlace}</p>
         </div>
       </div>
+
+      ${res ? `
+      <div class="modal-result-box">
+        <div class="modal-result-header">
+          <span class="modal-result-rank">${res.rank}</span>
+          <span class="modal-result-record">${res.record}</span>
+        </div>
+        <p style="font-size: 0.85rem; color: #e2e8f0; line-height: 1.5; margin: 0 0 10px;">${res.summary}</p>
+        ${res.finalScene ? `
+        <div style="background: rgba(0,0,0,0.3); border-radius: 6px; padding: 10px; margin-bottom: 10px;">
+          <div style="font-size: 0.8rem; font-weight: 800; color: #f87171; margin-bottom: 4px;">🎬 最後のシーン（決定的瞬間）</div>
+          <div style="font-size: 0.82rem; color: #cbd5e0; margin-bottom: 8px;">${res.finalScene.description}</div>
+          <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link">
+            <span>▶️</span> <span>【${res.finalScene.platform}】${res.finalScene.title}を見る</span>
+          </a>
+        </div>
+        ` : ''}
+      </div>
+      ` : ''}
       
       <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
         ${(athlete.snsAccounts || []).map(s => {
@@ -868,6 +1035,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (!targetAthlete) return;
 
+    const res = targetAthlete.tournamentResult || targetTeam.tournamentResult;
+
     modalContentInner.innerHTML = `
       <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px;">
         <div style="position: relative; width: 100px; height: 120px; flex-shrink: 0; border-radius: 8px; overflow: hidden; border: 1.5px solid var(--color-gold);">
@@ -878,9 +1047,28 @@ document.addEventListener('DOMContentLoaded', () => {
           <span style="font-size: 0.8rem; color: var(--color-gold); font-weight: 700;">${targetTeam.teamName} (${targetAthlete.pos} / ${targetAthlete.posName})</span>
           <h3 style="font-size: 1.6rem; font-weight: 900; color: #fff; margin: 2px 0;">${targetAthlete.name}</h3>
           <p style="font-size: 0.8rem; color: var(--color-gold-light); font-weight: 600; margin-bottom: 4px;">${targetAthlete.romaji}</p>
-          <p style="font-size: 0.85rem; color: var(--color-text-muted);">${targetAthlete.affiliation} | ${targetAthlete.heightWeight} / ${targetAthlete.age}歳 (${targetAthlete.birthDate}生)</p>
+          <p style="font-size: 0.85rem; color: var(--color-text-muted);">${targetAthlete.affiliation} | ${targetAthlete.heightWeight} / ${targetAthlete.age}歳</p>
         </div>
       </div>
+
+      ${res ? `
+      <div class="modal-result-box">
+        <div class="modal-result-header">
+          <span class="modal-result-rank">${res.rank}</span>
+          <span class="modal-result-record">${res.record || res.scoreSummary}</span>
+        </div>
+        <p style="font-size: 0.85rem; color: #e2e8f0; line-height: 1.5; margin: 0 0 10px;">${res.summary || res.detail}</p>
+        ${res.finalScene ? `
+        <div style="background: rgba(0,0,0,0.3); border-radius: 6px; padding: 10px; margin-bottom: 10px;">
+          <div style="font-size: 0.8rem; font-weight: 800; color: #f87171; margin-bottom: 4px;">🎬 チーム最後のシーン（ハイライト）</div>
+          <div style="font-size: 0.82rem; color: #cbd5e0; margin-bottom: 8px;">${res.finalScene.description}</div>
+          <a href="${res.finalScene.url}" target="_blank" rel="noopener noreferrer" class="btn-final-scene-link">
+            <span>▶️</span> <span>【${res.finalScene.platform}】${res.finalScene.title}を見る</span>
+          </a>
+        </div>
+        ` : ''}
+      </div>
+      ` : ''}
 
       <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
         ${(targetAthlete.snsAccounts || []).map(s => {
@@ -910,10 +1098,6 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       </div>
       ` : ''}
-
-      <div style="background: rgba(229, 169, 60, 0.1); border: 1px dashed var(--color-gold); border-radius: 8px; padding: 12px; font-size: 0.82rem; color: #cbd5e0; line-height: 1.5;">
-        <strong>🏟 大会出場枠:</strong> ${targetTeam.teamName} 全${targetTeam.athletes.length}名登録選手の一角として、${targetTeam.medalGoal}を目指し出場。
-      </div>
     `;
 
     quickModal?.classList.add('open');
@@ -930,6 +1114,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // ==========================================
   function resetAllFilters() {
     currentCategory = 'all';
+    currentMedal = 'all';
     currentEvent = 'all';
     currentPosition = 'all';
     currentSearchQuery = '';
@@ -943,6 +1128,10 @@ document.addEventListener('DOMContentLoaded', () => {
     categoryTabs?.querySelectorAll('.cat-tab').forEach(t => {
       t.classList.toggle('active', t.dataset.category === 'all');
       t.setAttribute('aria-selected', t.dataset.category === 'all' ? 'true' : 'false');
+    });
+
+    medalFilterButtons?.querySelectorAll('.medal-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.medal === 'all');
     });
 
     switchViewMode('individual');

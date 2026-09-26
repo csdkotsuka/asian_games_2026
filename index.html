@@ -112,6 +112,31 @@
         </button>
       </div>
 
+      <!-- メダル色絞り込みバー (今大会の成績・メダル色で瞬時フィルタリング) -->
+      <div class="medal-filter-bar" id="medalFilterBar" role="region" aria-label="メダルの色で結果を絞り込み">
+        <div class="medal-filter-title">
+          <span>🏅 今大会結果・メダルの色で絞り込み:</span>
+          <span class="medal-filter-hint">※YouTube等の「最後のシーン」ハイライト動画付き</span>
+        </div>
+        <div class="medal-filter-buttons" id="medalFilterButtons">
+          <button class="medal-btn active" data-medal="all">
+            <span>🌟</span><span>すべて表示</span>
+          </button>
+          <button class="medal-btn gold" data-medal="gold">
+            <span class="medal-icon">🥇</span><span>金メダル</span>
+            <span class="medal-count-badge" id="goldCountBadge">17</span>
+          </button>
+          <button class="medal-btn silver" data-medal="silver">
+            <span class="medal-icon">🥈</span><span>銀メダル</span>
+            <span class="medal-count-badge" id="silverCountBadge">5</span>
+          </button>
+          <button class="medal-btn bronze" data-medal="bronze">
+            <span class="medal-icon">🥉</span><span>銅メダル</span>
+            <span class="medal-count-badge" id="bronzeCountBadge">3</span>
+          </button>
+        </div>
+      </div>
+
       <!-- 表示モードスイッチャー (個人注目選手 vs チームスポーツ全登録ロスター) -->
       <div class="view-mode-bar" id="viewModeBar" role="tablist" aria-label="名鑑表示モード">
         <button class="view-mode-btn active" id="btnModeIndividual" data-mode="individual" role="tab" aria-selected="true">
