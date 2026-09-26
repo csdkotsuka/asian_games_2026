@@ -112,27 +112,35 @@
         </button>
       </div>
 
-      <!-- メダル色絞り込みバー (今大会の成績・メダル色で瞬時フィルタリング) -->
-      <div class="medal-filter-bar" id="medalFilterBar" role="region" aria-label="メダルの色で結果を絞り込み">
+      <!-- メダル・状況絞り込みバー (今大会の成績・進行状況で瞬時フィルタリング) -->
+      <div class="medal-filter-bar" id="medalFilterBar" role="region" aria-label="今大会の結果・試合進行状況で絞り込み">
         <div class="medal-filter-title">
-          <span>🏅 今大会結果・メダルの色で絞り込み:</span>
-          <span class="medal-filter-hint">※YouTube等の「最後のシーン」ハイライト動画付き</span>
+          <span>🏅 リアルタイム大会結果・進行状況で絞り込み:</span>
+          <span class="medal-filter-hint">※最新の試合速報＆YouTubeハイライト動画・公式リザルト付き</span>
         </div>
         <div class="medal-filter-buttons" id="medalFilterButtons">
           <button class="medal-btn active" data-medal="all">
             <span>🌟</span><span>すべて表示</span>
           </button>
+          <button class="medal-btn ongoing" data-medal="ongoing">
+            <span class="medal-icon">🔥</span><span>試合中・速報 (LIVE)</span>
+            <span class="medal-count-badge" id="ongoingCountBadge">0</span>
+          </button>
           <button class="medal-btn gold" data-medal="gold">
-            <span class="medal-icon">🥇</span><span>金メダル</span>
-            <span class="medal-count-badge" id="goldCountBadge">17</span>
+            <span class="medal-icon">🥇</span><span>金メダル確定</span>
+            <span class="medal-count-badge" id="goldCountBadge">0</span>
           </button>
           <button class="medal-btn silver" data-medal="silver">
-            <span class="medal-icon">🥈</span><span>銀メダル</span>
-            <span class="medal-count-badge" id="silverCountBadge">5</span>
+            <span class="medal-icon">🥈</span><span>銀メダル確定</span>
+            <span class="medal-count-badge" id="silverCountBadge">0</span>
           </button>
           <button class="medal-btn bronze" data-medal="bronze">
-            <span class="medal-icon">🥉</span><span>銅メダル</span>
-            <span class="medal-count-badge" id="bronzeCountBadge">3</span>
+            <span class="medal-icon">🥉</span><span>銅メダル確定</span>
+            <span class="medal-count-badge" id="bronzeCountBadge">0</span>
+          </button>
+          <button class="medal-btn upcoming" data-medal="upcoming">
+            <span class="medal-icon">🎯</span><span>今後登場</span>
+            <span class="medal-count-badge" id="upcomingCountBadge">0</span>
           </button>
         </div>
       </div>

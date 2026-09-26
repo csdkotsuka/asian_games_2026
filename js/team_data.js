@@ -58,16 +58,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -110,16 +111,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -162,16 +164,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -214,16 +217,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -266,16 +270,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -318,16 +323,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -370,16 +376,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -423,16 +430,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -475,16 +483,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -527,16 +536,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -579,16 +589,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -631,16 +642,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -683,16 +695,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -735,16 +748,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -787,16 +801,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -839,16 +854,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -893,16 +909,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -945,16 +962,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -996,16 +1014,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -1048,16 +1067,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -1100,16 +1120,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -1151,16 +1172,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（大会2連覇達成）",
-          "teamEvent": "男子サッカー",
-          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-          "summary": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
           "finalScene": {
-            "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-            "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 大会日程・全試合結果",
@@ -1172,15 +1194,16 @@ const TEAMS_DATA = [
       }
     ],
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇（大会2連覇達成）",
-      "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
-      "detail": "宿敵・韓国との激闘の決勝。細谷真大の先制点と後半終了間際の劇的ゴールで2-1の勝利を収め、自国開催で見事アジア連覇を達成した。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+      "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
+      "detail": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
       "finalScene": {
-        "title": "試合終了のホイッスル＆歓喜の輪とキャプテン藤田のカップ掲揚",
-        "description": "後半アディショナルタイムを耐え抜き歓喜のタイムアップ。選手全員がピッチ中央へ雪崩れ込み抱き合った最高の瞬間。",
+        "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
+        "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
         "name": "JFA公式 大会日程・全試合結果",
@@ -1245,16 +1268,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1303,16 +1327,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1355,16 +1380,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1413,16 +1439,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1465,16 +1492,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1517,16 +1545,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1569,16 +1598,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1622,16 +1652,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1674,16 +1705,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1726,16 +1758,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1778,16 +1811,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1830,16 +1864,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1882,16 +1917,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1934,16 +1970,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -1986,16 +2023,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -2038,16 +2076,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -2090,16 +2129,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -2142,16 +2182,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -2194,16 +2235,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -2246,16 +2288,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -2298,16 +2341,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -2350,16 +2394,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア王座奪還）",
-          "teamEvent": "女子サッカー",
-          "record": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-          "summary": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
           "finalScene": {
-            "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-            "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JFA公式 なでしこジャパン大会結果",
@@ -2371,15 +2416,16 @@ const TEAMS_DATA = [
       }
     ],
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇（アジア王座奪還）",
-      "scoreSummary": "決勝: 日本 3-0 北朝鮮（豊田スタジアム）",
-      "detail": "長谷川唯、藤野あおばら海外組と国内精鋭が華麗なパスワークを披露。堅守の北朝鮮を3-0で圧倒し、無失点でアジアの頂点へ返り咲いた。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
+      "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
+      "detail": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
       "finalScene": {
-        "title": "華麗なワンタッチパスから決めたダメ押し3点目＆金メダル表彰式",
-        "description": "ピッチを広く使った美しい崩しからゴール。主将・熊谷紗希を先頭に表彰台で跳び跳ねた歓喜のなでしこジャパン。",
+        "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
+        "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+ハイライト+金メダル"
+        "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
         "name": "JFA公式 なでしこジャパン大会結果",
@@ -2451,16 +2497,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2509,16 +2556,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2561,16 +2609,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2618,16 +2667,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2676,16 +2726,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2729,16 +2780,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2781,16 +2833,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2833,16 +2886,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2885,16 +2939,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2937,16 +2992,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -2989,16 +3045,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -3041,16 +3098,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "silver",
-          "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-          "teamEvent": "男子5人制",
-          "record": "決勝: 日本 78-82 中国（IGアリーナ）",
-          "summary": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
           "finalScene": {
-            "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-            "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "FIBA公式 トーナメント表＆結果",
@@ -3062,15 +3120,16 @@ const TEAMS_DATA = [
       }
     ],
     "tournamentResult": {
-      "medal": "silver",
-      "rank": "銀メダル 🥈（アジア歴代最高成績タイ）",
-      "scoreSummary": "決勝: 日本 78-82 中国（IGアリーナ）",
-      "detail": "河村勇輝、富樫勇樹らの高速トランジションで高さの中国を最後まで追い詰めた。満員のIGアリーナが熱狂に包まれた歴史的名勝負。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
+      "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
+      "detail": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
       "finalScene": {
-        "title": "第4Q終了ブザー＆互いの健闘を讃え合った感動のノーサイド",
-        "description": "残り数秒まで同点を狙うスリーポイントを放ち続けた闘志。試合終了後、満員の観客から万雷のスタンディングオベーションが送られた。",
+        "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
+        "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+決勝+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
         "name": "FIBA公式 トーナメント表＆結果",
@@ -3141,16 +3200,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3199,16 +3259,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3257,16 +3318,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3309,16 +3371,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3361,16 +3424,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3413,16 +3477,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3465,16 +3530,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3517,16 +3583,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3569,16 +3636,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3621,16 +3689,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3673,16 +3742,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3725,16 +3795,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3777,16 +3848,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3829,16 +3901,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-          "teamEvent": "男子バレーボール",
-          "record": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-          "summary": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
           "finalScene": {
-            "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-            "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "AVC公式 マッチリザルト・星取表",
@@ -3850,15 +3923,16 @@ const TEAMS_DATA = [
       }
     ],
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇（フルセット死闘の末に王座奪還）",
-      "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 21-25, 25-22, 23-25, 15-13）",
-      "detail": "石川祐希、高橋藍、西田有志の3枚看板が爆発。イランの高さを緻密なディグとパイプ攻撃で打ち破り、フルセット15-13で劇的な金メダル。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
+      "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
+      "detail": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
       "finalScene": {
-        "title": "マッチポイントで決まった石川祐希のサービスエース＆大歓喜の抱擁",
-        "description": "14-13の極限状態から石川主将が放ったノータッチエース。コートに倒れ込んで全員で重なり合った鳥肌ものの勝利。",
+        "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
+        "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=龍神NIPPON+バレー男子+アジア大会+決勝+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
         "name": "AVC公式 マッチリザルト・星取表",
@@ -3923,16 +3997,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -3976,16 +4051,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4028,16 +4104,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4080,16 +4157,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4132,16 +4210,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4185,16 +4264,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4237,16 +4317,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4289,16 +4370,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4341,16 +4423,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4393,16 +4476,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4445,16 +4529,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4497,16 +4582,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4549,16 +4635,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4601,16 +4688,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4653,16 +4741,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4705,16 +4794,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4757,16 +4847,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4809,16 +4900,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4861,16 +4953,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4913,16 +5006,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -4965,16 +5059,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -5017,16 +5112,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -5069,16 +5165,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -5121,16 +5218,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-          "teamEvent": "男子野球",
-          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-          "summary": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
           "finalScene": {
-            "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-            "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "侍ジャパン公式 試合日程・結果",
@@ -5142,15 +5240,16 @@ const TEAMS_DATA = [
       }
     ],
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇（社会人侍ジャパン 大会2連覇）",
-      "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
-      "detail": "先発・嘉陽宗一郎が8回1失点の快投。向山、丸山の勝負強いタイムリーで主導権を握り、盤石の試合運びで大会連覇を達成した。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
+      "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
+      "detail": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
       "finalScene": {
-        "title": "9回2死からの空振り三振＆マウンドに集まる歓喜のハイタッチ",
-        "description": "最後の打者を外角低めのスライダーで空振り三振に仕留め、捕手・辻野とバッテリーが固く抱き合った瞬間。",
+        "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
+        "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人野球+アジア大会+決勝+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
         "name": "侍ジャパン公式 試合日程・結果",
@@ -5215,16 +5314,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5267,16 +5367,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5319,16 +5420,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5371,16 +5473,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5423,16 +5526,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5475,16 +5579,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5527,16 +5632,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5579,16 +5685,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5631,16 +5738,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5683,16 +5791,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5735,16 +5844,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5787,16 +5897,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5839,16 +5950,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5891,16 +6003,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5943,16 +6056,17 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "medal": "gold",
-          "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-          "teamEvent": "女子ソフトボール",
-          "record": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-          "summary": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+          "status": "ongoing",
+          "medal": "ongoing",
+          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
           "finalScene": {
-            "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-            "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
             "name": "JSA公式 大会トーナメント対戦表",
@@ -5964,15 +6078,16 @@ const TEAMS_DATA = [
       }
     ],
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇（アジア大会前人未到の6連覇）",
-      "scoreSummary": "決勝: 日本 2-0 中国（安城市総合運動公園）",
-      "detail": "先発・後藤希友が5回無失点、6回から登板したレジェンド上野由岐子が完璧なリリーフで完封リレー。伝統の堅守で見事6連覇を達成。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
+      "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
+      "detail": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
       "finalScene": {
-        "title": "上野由岐子の快速球で見逃し三振！アジア大会6連覇の瞬間",
-        "description": "コースギリギリの内角ストレートで見逃し三振。笑顔の上野を囲んでナインがグラウンドに駆け寄った感動の連覇達成シーン。",
+        "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
+        "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
         "name": "JSA公式 大会トーナメント対戦表",

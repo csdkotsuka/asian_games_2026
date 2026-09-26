@@ -1587,6 +1587,18 @@ button {
   box-shadow: 0 0 16px rgba(205, 127, 50, 0.5);
 }
 
+.medal-btn.ongoing.active {
+  background: linear-gradient(135deg, #ef4444, #dc2626, #b91c1c);
+  color: #ffffff;
+  box-shadow: 0 0 16px rgba(239, 68, 68, 0.6);
+}
+
+.medal-btn.upcoming.active {
+  background: linear-gradient(135deg, #0ea5e9, #0284c7, #0369a1);
+  color: #ffffff;
+  box-shadow: 0 0 16px rgba(14, 165, 233, 0.5);
+}
+
 .medal-count-badge {
   font-size: 0.72rem;
   background: rgba(0, 0, 0, 0.35);
@@ -1628,6 +1640,24 @@ button {
   background: linear-gradient(135deg, rgba(205, 127, 50, 0.22), rgba(146, 64, 14, 0.1));
   border: 1px solid #cd7f32;
   color: #fdba74;
+}
+
+.card-result-badge.ongoing {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.25), rgba(220, 38, 38, 0.12));
+  border: 1px solid #ef4444;
+  color: #fca5a5;
+  animation: pulse-border 2s infinite ease-in-out;
+}
+
+@keyframes pulse-border {
+  0%, 100% { border-color: rgba(239, 68, 68, 0.5); box-shadow: 0 0 6px rgba(239, 68, 68, 0.2); }
+  50% { border-color: #ef4444; box-shadow: 0 0 14px rgba(239, 68, 68, 0.5); }
+}
+
+.card-result-badge.upcoming {
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.2), rgba(2, 132, 199, 0.1));
+  border: 1px solid #0ea5e9;
+  color: #7dd3fc;
 }
 
 /* 最後のシーン・ハイライトボックス */

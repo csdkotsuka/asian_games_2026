@@ -20,11 +20,13 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalCloseBtn = document.getElementById('modalCloseBtn');
   const modalContentInner = document.getElementById('modalContentInner');
 
-  // メダル色フィルター要素
+  // メダル色・ステータスフィルター要素
   const medalFilterButtons = document.getElementById('medalFilterButtons');
+  const ongoingCountBadge = document.getElementById('ongoingCountBadge');
   const goldCountBadge = document.getElementById('goldCountBadge');
   const silverCountBadge = document.getElementById('silverCountBadge');
   const bronzeCountBadge = document.getElementById('bronzeCountBadge');
+  const upcomingCountBadge = document.getElementById('upcomingCountBadge');
 
   // チームスポーツ専用UI要素
   const btnModeIndividual = document.getElementById('btnModeIndividual');
@@ -193,22 +195,40 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ==========================================
-  // メダル獲得数カウントの更新
+  // メダル獲得数・試合進行状況カウントの更新
   // ==========================================
   function updateMedalCounts() {
-    let gold = 0, silver = 0, bronze = 0;
+    let ongoing = 0, gold = 0, silver = 0, bronze = 0, upcoming = 0;
 
-    // 個人選手
-    ATHLETES_DATA.forEach(a => {
-      const m = a.tournamentResult?.medal;
-      if (m === 'gold') gold++;
-      else if (m === 'silver') silver++;
-      else if (m === 'bronze') bronze++;
-    });
+    if (viewMode === 'individual') {
+      // 個人選手
+      ATHLETES_DATA.forEach(a => {
+        const m = a.tournamentResult?.medal;
+        if (m === 'ongoing') ongoing++;
+        else if (m === 'gold') gold++;
+        else if (m === 'silver') silver++;
+        else if (m === 'bronze') bronze++;
+        else if (m === 'upcoming') upcoming++;
+      });
+    } else {
+      // チームスポーツ
+      if (typeof TEAMS_DATA !== 'undefined') {
+        TEAMS_DATA.forEach(t => {
+          const m = t.tournamentResult?.medal;
+          if (m === 'ongoing') ongoing++;
+          else if (m === 'gold') gold++;
+          else if (m === 'silver') silver++;
+          else if (m === 'bronze') bronze++;
+          else if (m === 'upcoming') upcoming++;
+        });
+      }
+    }
 
+    if (ongoingCountBadge) ongoingCountBadge.textContent = ongoing;
     if (goldCountBadge) goldCountBadge.textContent = gold;
     if (silverCountBadge) silverCountBadge.textContent = silver;
     if (bronzeCountBadge) bronzeCountBadge.textContent = bronze;
+    if (upcomingCountBadge) upcomingCountBadge.textContent = upcoming;
   }
 
   // ==========================================
@@ -246,6 +266,7 @@ document.addEventListener('DOMContentLoaded', () => {
       populateEventSelect();
     }
 
+    updateMedalCounts();
     renderAthletes();
   }
 

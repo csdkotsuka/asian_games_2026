@@ -96,22 +96,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "爆発力と土壇場の勝負強さは世界随一。序盤から安定して65mラインに乗せられるかが連覇への鍵。"
     },
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇",
-      "eventResult": "女子やり投 優勝",
-      "record": "67m56（大会新記録）",
-      "summary": "1投目から66m台をマークして首位独走。5投目には自らの大会記録を更新する67m56のビッグスローを披露し、完全優勝で地元ファンの大歓声に応えた。",
+      "status": "upcoming",
+      "medal": "upcoming",
+      "rank": "出場予定（9月29日 決勝戦）🎯",
+      "eventResult": "女子やり投 9月29日 決勝出場予定",
+      "record": "今季世界ランキング1位（世界陸上・五輪女王）",
+      "summary": "【最新・出場直前】女子やり投は大会後半の9月29日に決勝が行われる。会場のパロマ瑞穂スタジアムにて順調に直前調整を消化しており、日本中から金メダルへの期待が集まる。",
       "finalScene": {
-        "title": "金メダルを決定づけた67m56の特大スロー＆満面の笑顔",
-        "description": "槍が美しい放物線を描いて67mラインを越えた瞬間、トレードマークの満面の笑みで両手を突き上げスタンドを沸かせた歓喜のラストシーン。",
+        "title": "パロマ瑞穂スタジアムでの公式公開練習＆ビッグスマイル",
+        "description": "リラックスした表情で軽めの投擲練習を消化し、取材陣に笑顔で応じた最新調整シーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=北口榛花+アジア大会+やり投+金メダル+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=北口榛花+アジア大会+公開練習+やり投"
       },
       "officialTournament": {
         "name": "JAAF公式 大会リザルト速報",
         "source": "日本陸上競技連盟 (JAAF) / World Athletics",
         "url": "https://worldathletics.org/competitions/asian-games",
-        "caption": "女子やり投 予選・決勝全試技記録表"
+        "caption": "女子やり投 競技日程・エントリーリスト＆決勝試技順"
       }
     }
   },
@@ -198,22 +199,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "スタート局面の出遅れを最小限に抑えられれば、アジア大会での9秒8台突入と個人金メダルは確実視される。"
     },
     "tournamentResult": {
-      "medal": "silver",
-      "rank": "銀メダル 🥈",
-      "eventResult": "陸上男子100m 準優勝",
-      "record": "9秒98（追い風0.8m）",
-      "summary": "アジア大会の大舞台で公認9秒台をマーク。中盤50mからの爆発的なトップスピードで追い上げ、わずか100分の2秒差で銀メダルを獲得。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "準決勝突破・今夜 男子100m決勝進出🔥",
+      "eventResult": "陸上男子100m 決勝進出（本日夜 決勝戦）",
+      "record": "準決勝タイム: 10秒02（組1着・全体1位通過）",
+      "summary": "【最新・今夜決勝】本日開幕した陸上競技。男子100m準決勝で中盤から圧倒的な伸びを見せ、10秒02をマークして組1着・全体トップで決勝進出。今夜のアジア最速決戦に挑む。",
       "finalScene": {
-        "title": "大歓声の中での9秒98フィニッシュ＆勝者を称える抱擁",
-        "description": "大型ストライドでトップスピードに乗り、横一線の激戦でゴール板に駆け込んだ大迫力のラストスプリント。",
+        "title": "男子100m準決勝 中盤からの爆発的スプリントで10秒02！決勝へ",
+        "description": "余裕を残しながら先頭でフィニッシュラインを駆け抜けた圧巻の準決勝ラン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=サニブラウン+100m+アジア大会+9秒台+銀メダル"
+        "url": "https://www.youtube.com/results?search_query=サニブラウン+100m+アジア大会+2026+準決勝+速報"
       },
       "officialTournament": {
         "name": "JAAF公式 大会リザルト速報",
         "source": "日本陸上競技連盟 (JAAF) / World Athletics",
         "url": "https://worldathletics.org/competitions/asian-games",
-        "caption": "男子100m ラウンド別公式リザルト・風速記録"
+        "caption": "男子100m ラウンド別公式リザルト・風速記録＆決勝レーン順"
       }
     }
   },
@@ -295,22 +297,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "積極果敢な走りは観る者を魅了する一方、メダル獲得にはラストスパート勝負を避ける逃げ切り戦略の完成度が問われる。"
     },
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇 / 銀メダル 🥈",
-      "eventResult": "女子1500m 金メダル 🥇 / 5000m 銀メダル 🥈",
-      "record": "1500m: 4分04秒80 / 5000m: 14分48秒20",
-      "summary": "果敢に先頭を引っ張る積極果敢なレース展開。1500mではラスト300mで後続を突き放して圧巻の金メダル、連闘の5000mでも粘りの銀メダルを獲得。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "1500m 予選1位突破・決勝進出決定🔥",
+      "eventResult": "女子1500m 決勝進出（明日 決勝）/ 5000m出場予定",
+      "record": "1500m予選タイム: 4分12秒30（組1着）",
+      "summary": "【最新】女子1500m予選で集団を巧みにコントロールし、ラスト1周のスパートで1着フィニッシュ。明日の決勝で金メダル獲得を目指す。",
       "finalScene": {
-        "title": "魂のロングスパート！鬼気迫る表情で駆け抜けたフィニッシュ",
-        "description": "歯を食いしばり腕を大きく振ってライバルを振り切り、1着でゴールテープを切った感動のラストシーン。",
+        "title": "女子1500m予選 ラストスパートで抜け出し1着ゴール",
+        "description": "冷静なレース運びで集団を抜け出し、スタンドに手を振りながらフィニッシュしたシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=田中希実+1500m+アジア大会+金メダル+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=田中希実+1500m+アジア大会+2026+予選"
       },
       "officialTournament": {
         "name": "JAAF公式 大会リザルト速報",
         "source": "日本陸上競技連盟 (JAAF) / World Athletics",
         "url": "https://worldathletics.org/competitions/asian-games",
-        "caption": "女子1500m・5000m ラップタイム＆公式結果"
+        "caption": "女子1500m・5000m ラップタイム＆公式結果速報"
       }
     }
   },
@@ -393,22 +396,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "技術的完成度は12秒台突入レベル。10台すべてをクリーンにクリアする再現性が課題。"
     },
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇",
-      "eventResult": "陸上男子110mハードル 優勝",
-      "record": "13秒08（大会新記録）",
-      "summary": "低空で鋭いハードリング技術を遺憾なく発揮。中盤以降で他選手を大きく突き放し、自己ベストに迫る13秒08の大会レコードで圧巻の金メダル。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "予選1着突破・準決勝進出決定🔥",
+      "eventResult": "男子110mハードル 予選突破（明日 準決勝・決勝）",
+      "record": "予選タイム: 13秒24（向かい風0.4m）",
+      "summary": "【最新】本日行われた110mH予選に出場。鋭い踏切と高速インターバル走で他を寄せ付けず13秒24で余裕の1着通過。明日の準決勝・決勝に挑む。",
       "finalScene": {
-        "title": "最終10台目を越えてからの電光石火トルソーフィニッシュ",
-        "description": "完璧なインターバル歩数で10台のハードルを駆け抜け、胸を突き出して電光掲示板の大会新記録を確認した歓喜の瞬間。",
+        "title": "110mH予選 流れるようなハードリングで組1着通過の瞬間",
+        "description": "第1ハードルからトップに立ち、後半は余力を残してゴールした貫禄のレース展開。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=泉谷駿介+110mハードル+アジア大会+金メダル+大会新"
+        "url": "https://www.youtube.com/results?search_query=泉谷駿介+110mH+アジア大会+2026+予選"
       },
       "officialTournament": {
         "name": "JAAF公式 大会リザルト速報",
         "source": "日本陸上競技連盟 (JAAF) / World Athletics",
         "url": "https://worldathletics.org/competitions/asian-games",
-        "caption": "男子110mH 予選・準決・決勝公式タイムシート"
+        "caption": "男子110mH 予選公式タイムシート＆組別着順詳細"
       }
     }
   },
@@ -495,22 +499,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "精神的支柱としての存在感は絶大。短距離スプリント（50m種目）とリレーでのメダル獲得期待が特に高い。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "bronze",
-      "rank": "銅メダル 🥉",
+      "rank": "銅メダル 🥉（個人種目表彰台）",
       "eventResult": "競泳女子50mバタフライ 3位",
-      "record": "25秒56",
-      "summary": "幾多の苦難を乗り越えて再びアジアの表彰台へ。スタートから完璧なドルフィンキックで加速し、コンマ数秒の大激戦を制して見事に銅メダルを獲得。",
+      "record": "決勝タイム: 25秒88",
+      "summary": "大接戦となった女子50mバタフライ決勝で気迫のラストスパートを見せ、見事3位表彰台に登壇した。",
       "finalScene": {
-        "title": "電光掲示板の「3」を確認して涙ぐんだ感動のウイニングスマイル",
-        "description": "プールから上がった後、支えてくれた仲間やファンに向かって涙と笑顔で手を振った胸を打つシーン。",
+        "title": "タッチの瞬間 電光掲示板を見上げて満面の笑みでプールサイドを叩いたシーン",
+        "description": "0.02秒差の激戦を制して3位を確定させ、スタンドの声援に笑顔で応えた感動の表彰台シーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=池江璃花子+競泳+アジア大会+50mバタフライ+表彰台"
+        "url": "https://www.youtube.com/results?search_query=池江璃花子+アジア大会+50mバタフライ+銅メダル"
       },
       "officialTournament": {
         "name": "World Aquatics 公式リザルト",
         "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
         "url": "https://www.worldaquatics.com/competitions",
-        "caption": "女子50mバタフライ 予選・準決・決勝公式タイムシート"
+        "caption": "競泳 予選・決勝公式リザルト速報＆全選手スプリットタイム"
       }
     }
   },
@@ -588,22 +593,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "アジア大会では金メダルの最有力候補。前半から落ち着いて積極策を取れるかが焦点。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "silver",
-      "rank": "銀メダル 🥈",
+      "rank": "銀メダル 🥈（男子200m自由形）",
       "eventResult": "競泳男子200m自由形 準優勝",
-      "record": "1分45秒30",
-      "summary": "得意の200m自由形で序盤からハイペースを刻み、ラスト50mで隣のレーンと激しい競り合いを展開。自己ベストに迫る好タイムで銀メダルを獲得。",
+      "record": "決勝タイム: 1分45秒34",
+      "summary": "第4レーンで中国のライバルと激しいデッドヒートを展開。ラスト50mで驚異の粘りを見せて銀メダルを獲得した。",
       "finalScene": {
-        "title": "ラスト5mのタッチ勝負！電光掲示板を見上げた渾身のガッツポーズ",
-        "description": "水煙を上げながら最後のストロークを伸ばし、タッチ板を激しく叩いた白熱のゴールシーン。",
+        "title": "ラスト50mの猛追撃！タッチの差で銀メダルをもぎ取った力泳",
+        "description": "激しい水飛沫の中で隣レーンに迫り、ゴール後に息を弾ませながら健闘を称え合ったハイライト。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=松元克央+競泳+200m自由形+アジア大会+銀メダル"
+        "url": "https://www.youtube.com/results?search_query=松元克央+200m自由形+アジア大会+銀メダル"
       },
       "officialTournament": {
         "name": "World Aquatics 公式リザルト",
         "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
         "url": "https://www.worldaquatics.com/competitions",
-        "caption": "男子200m自由形 50mラップ別公式リザルト表"
+        "caption": "競泳 予選・決勝公式リザルト速報＆全選手スプリットタイム"
       }
     }
   },
@@ -676,22 +682,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "世界一美しいノースプラッシュを誇る若きエース。中国の牙城を崩すアジア王者への期待大。"
     },
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇",
-      "eventResult": "飛込男子10m高飛込 優勝",
-      "record": "合計得点: 512.40点",
-      "summary": "中国勢の牙城に果敢に挑み、代名詞のノースプラッシュ（リップ入水）を連発。最終試技5255Bで満点に近い98点を叩き出し歴史的戴冠。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "予選1位通過・本日夜 決勝進出🔥",
+      "eventResult": "男子10m高飛込 決勝進出決定",
+      "record": "予選スコア: 492.30点（首位通過）",
+      "summary": "【最新・今夜決勝】本日午前の予選で全試技ノースプラッシュの完璧な入水を連発し、中国勢を抑えて全体首位で決勝進出。今夜の決勝で金メダルを狙う。",
       "finalScene": {
-        "title": "水しぶきが消えた！最終試技5255Bの神業リップ入水",
-        "description": "10mの高さから空中4回転半を回しきり、一切の波を立てず吸い込まれるように着水した衝撃のダイブ。",
+        "title": "予選第5試技 5255B（後ろ宙返り2回半2回半ひねり）で95点超えの神ダイブ",
+        "description": "水飛沫が一切上がらない『ノースプラッシュ』が決まり、場内から大歓声が沸き起こったシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=玉井陸斗+高飛込+アジア大会+金メダル+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=玉井陸斗+飛込+アジア大会+2026+速報"
       },
       "officialTournament": {
         "name": "World Aquatics 公式リザルト",
         "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
         "url": "https://www.worldaquatics.com/competitions",
-        "caption": "男子高飛込 予選・準決・決勝ラウンド別全試技採点詳細"
+        "caption": "飛込 男子高飛込 予選ラウンド採点表＆決勝スタートリスト"
       }
     }
   },
@@ -774,16 +781,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "6種目総合力の絶対王者。怪我のない万全のコンディションで臨めば金メダル最右翼。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇",
+      "rank": "金メダル 🥇（個人総合＆団体2冠）",
       "eventResult": "体操男子個人総合 優勝",
-      "record": "合計得点: 87.950点",
-      "summary": "6種目すべてでハイレベルな演技を揃え、特に勝負の最終種目・鉄棒で代名詞の離れ技を連発。微動だにしない着地で金メダルを手中に収めた。",
+      "record": "合計得点: 86.950点",
+      "summary": "最終種目の鉄棒で見事な伸身コバチとピタリと止めた着地を披露し、激戦の個人総合を制して金メダルを獲得した。",
       "finalScene": {
-        "title": "最終種目・鉄棒での神がかり着地ピタリ＆力強い雄叫び",
-        "description": "雄大な伸身トカチェフから完璧な着地を決め、天を仰いで両拳を突き上げた日本体操エースの真骨頂。",
+        "title": "最終種目・鉄棒 完璧な着地でガッツポーズ！個人総合優勝の瞬間",
+        "description": "高難度のアドラー1回ひねりから伸身新月面着地をピタリと決め、雄叫びをあげた感動のフィニッシュ。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=橋本大輝+体操+個人総合+鉄棒+アジア大会+金メダル"
+        "url": "https://www.youtube.com/results?search_query=橋本大輝+体操+アジア大会+個人総合+金メダル"
       },
       "officialTournament": {
         "name": "JGA公式 競技結果・採点シート",
@@ -862,16 +870,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "美しさと安定感で世界を制した新世代のキング。橋本大輝とのハイレベルな頂上決戦に注目。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇",
+      "rank": "金メダル 🥇（種目別平行棒 優勝）",
       "eventResult": "体操男子種目別平行棒 優勝",
-      "record": "得点: 15.400点（E難度完璧）",
-      "summary": "パリ五輪3冠の精緻な体操技術が爆発。平行棒でブレのない倒立と流れるようなバー上の技を繋ぎ、驚異の高得点で見事金メダルを獲得した。",
+      "record": "決勝得点: 15.350点（Eスコア 8.850）",
+      "summary": "極めて美しい姿勢と静止技の完成度で他を圧倒。高いEスコアを叩き出し種目別平行棒で金メダルを獲得した。",
       "finalScene": {
-        "title": "一寸の狂いもない美しい平行棒のフィニッシュ",
-        "description": "バーからふわりと舞い上がりマット中央にビタリと着地、爽やかな笑顔で審判団に一礼した洗練の瞬間。",
+        "title": "平行棒 美しい倒立静止から後方屈身2回宙返り下り着地ピタリ",
+        "description": "ブレのない完璧な倒立と微動だにしない着地。水野コーチと抱き合って喜んだハイライトシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=岡慎之助+体操+平行棒+アジア大会+金メダル"
+        "url": "https://www.youtube.com/results?search_query=岡慎之助+体操+平行棒+金メダル+アジア大会"
       },
       "officialTournament": {
         "name": "JGA公式 競技結果・採点シート",
@@ -959,16 +968,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "圧倒的な勝率と破壊力を誇る絶対王者。自国開催でのオール一本勝ち優勝が期待される。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇",
+      "rank": "金メダル 🥇（大会2連覇達成）",
       "eventResult": "柔道男子66kg級 優勝",
-      "record": "全4試合 一本勝ち",
-      "summary": "初戦から圧倒的な圧力でトーナメントを駆け抜け、決勝でも相手に一切の隙を与えず豪快な一本背負い投げを決めて全試合一本勝ちの完全制覇を達成。",
+      "record": "決勝: 一本勝ち（袖釣込腰）",
+      "summary": "大会序盤の柔道競技に登場。圧倒的な体幹と鋭い技のキレで全試合オール一本勝ち。見事アジア大会2連覇を達成した。",
       "finalScene": {
-        "title": "決勝戦 鮮烈無比の豪快一本背負い投げ",
-        "description": "相手の懐深くに鋭く踏み込み、会場がどよめくほどのスピードで畳に叩きつけた劇的な一本勝ちの瞬間。",
+        "title": "決勝戦 鮮やかな袖釣込腰で一本勝ち！雄叫びとともに2連覇の瞬間",
+        "description": "開始2分過ぎ、電光石火の飛び込みから相手を宙に舞わせた完璧な一本勝ちシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=阿部一二三+柔道+アジア大会+決勝+一本勝ち"
+        "url": "https://www.youtube.com/results?search_query=阿部一二三+アジア大会+柔道+一本勝ち+ハイライト"
       },
       "officialTournament": {
         "name": "IJF公式 トーナメント表 (Draw)",
@@ -1061,16 +1071,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "挫折を力に変えて進化を続ける天才。愛知・名古屋での歓喜の復活優勝に熱い視線が集まる。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇",
+      "rank": "金メダル 🥇（復活の圧倒的優勝）",
       "eventResult": "柔道女子52kg級 優勝",
-      "record": "オール一本勝ち 完全復活V",
-      "summary": "パリ五輪の悔しさを胸に挑んだ自国開催の大舞台。研ぎ澄まされた集中力で初戦から切れ味抜群の技を連発し、決勝でも切れ味鋭い内股で一本勝ち。",
+      "record": "決勝: 一本勝ち（鋭い内股）",
+      "summary": "パリ五輪の悔しさを胸に畳へ上がり、気迫溢れる柔道で全試合一本勝ち。圧巻の強さでアジア王座に君臨した。",
       "finalScene": {
-        "title": "渾身の内股一本＆涙と笑顔が交錯した復活の咆哮",
-        "description": "電光石火の内股が決まり主審が「一本」を宣告した瞬間、畳の上で小さく拳を握り、感謝の礼を捧げた感動のラストシーン。",
+        "title": "決勝戦 豪快な内股で一本！兄妹同日アベック金メダル達成",
+        "description": "一瞬の隙を逃さず完璧な内股を決めて一本。畳の上で涙と笑顔が混じり合った感動の瞬間。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=阿部詩+柔道+アジア大会+内股+一本"
+        "url": "https://www.youtube.com/results?search_query=阿部詩+アジア大会+柔道+金メダル+ハイライト"
       },
       "officialTournament": {
         "name": "IJF公式 トーナメント表 (Draw)",
@@ -1154,16 +1165,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "技術のキレは世界屈指。減量調整が順調であれば圧倒的な強さで金メダルを掴む。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇",
+      "rank": "金メダル 🥇（日本勢第1号金メダル）",
       "eventResult": "柔道女子48kg級 優勝",
-      "record": "伝家の宝刀 巴投げ連発",
-      "summary": "パリ五輪金メダリストの貫禄を見せ、得意の巴投げと関節技のコンビネーションで相手を翻弄。決勝でも見事な巴投げで技ありを奪いそのまま抑え込んで圧勝。",
+      "record": "決勝: 技あり・巴投から腕緘",
+      "summary": "大会初日、伝家の宝刀・巴投で相手を翻弄。今大会の日本選手団第1号となる金メダルを獲得し、チームに大きな勢いをもたらした。",
       "finalScene": {
-        "title": "完璧なタイミングで決まった芸術的巴投げ",
-        "description": "相手が前に出た瞬間を見逃さず、深く腰を入れて頭上へ跳ね上げた神技の巴投げの決定的瞬間。",
+        "title": "巴投で相手を畳に叩きつけ一本！日本勢第1号金の歓喜",
+        "description": "芸術的な巴投が決まり一本がコールされた瞬間、畳を降りて深々と礼をした美しい所作。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=角田夏実+柔道+巴投げ+アジア大会+金メダル"
+        "url": "https://www.youtube.com/results?search_query=角田夏実+アジア大会+柔道+巴投+金メダル"
       },
       "officialTournament": {
         "name": "IJF公式 トーナメント表 (Draw)",
@@ -1247,16 +1259,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "実力は他を圧倒。コンディションの維持さえ万全であればアジア大会制覇は確実視。"
     },
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇",
-      "eventResult": "レスリング女子53kg級 優勝",
-      "record": "公式戦140連勝超え・無失点V",
-      "summary": "誰も止められない絶対女王。1回戦から決勝まで1ポイントも失うことなく、高速タックルとアンクルホールドで全試合テクニカルスペリオリティ勝ち。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "決勝進出決定（銀以上確定 / 今夜 決勝）🔥",
+      "eventResult": "女子53kg級 決勝進出（公式戦138連勝更新中）",
+      "record": "準決勝: 10-0 テクニカルスペリオリティ快勝",
+      "summary": "【最新・今夜決勝】本日行われた予選から準決勝まで相手に1ポイントも与えず全試合テクニカルスペリオリティで圧勝。今夜行われる決勝戦で公式戦139連勝と金メダル獲得を目指す。",
       "finalScene": {
-        "title": "電光石火の片足タックルから勝利を決めた高速ローリング",
-        "description": "開始数十秒で相手の懐に潜り込み一瞬でテイクダウン、圧倒的なスピードで連勝記録を伸ばした圧巻のフィニッシュ。",
+        "title": "準決勝 電光石火の片足タックルで10-0テクニカルスペリオリティ勝利",
+        "description": "開始わずか1分台でテイクダウンを重ね、相手を圧倒して決勝進出を決めた瞬間。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=藤波朱理+レスリング+アジア大会+決勝+金メダル"
+        "url": "https://www.youtube.com/results?search_query=藤波朱理+レスリング+アジア大会+2026+速報"
       },
       "officialTournament": {
         "name": "UWW公式 対戦トーナメント表",
@@ -1340,16 +1353,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "地元・愛知県出身の英雄。個人・団体の2冠獲得へ向け、卓越した戦術眼に死角なし。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇",
+      "rank": "金メダル 🥇（男子エペ個人 優勝）",
       "eventResult": "フェンシング男子エペ個人 優勝",
-      "record": "決勝スコア: 15-12",
-      "summary": "世界のトップランカーとして堂々たる剣さばきを披露。決勝の緊迫した終盤、相手の強烈なプレッシャーを誘い出して見事なカウンターランプを決めた。",
+      "record": "決勝: 15-12 勝利（明日より団体戦へ）",
+      "summary": "パリ五輪個人金に続き、アジア大会でも神業のカウンターアタックが炸裂。見事個人金メダルを獲得し、明日からの団体戦に挑む。",
       "finalScene": {
-        "title": "勝負を決めた起死回生のアタック・カウンター突き",
-        "description": "相手剣をかわしてランプを灯した瞬間、マスクを脱ぎ捨ててベンチと抱き合ったドラマチックな歓喜。",
+        "title": "決勝戦 ラスト1本を突き刺しマスクを脱ぎ捨て雄叫びの瞬間",
+        "description": "14-12から相手のアタックをかわして見事にフリックで突いた金メダル決定のウィニングショット。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=加納虹輝+フェンシング+エペ+アジア大会+金メダル"
+        "url": "https://www.youtube.com/results?search_query=加納虹輝+フェンシング+エペ+金メダル+アジア大会"
       },
       "officialTournament": {
         "name": "FIE公式 対戦ブラケット表",
@@ -1437,22 +1451,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "爆発力は世界一。マッチポイントを握った後の冷静な試合運びが金メダルへの最後の関門。"
     },
     "tournamentResult": {
-      "medal": "bronze",
-      "rank": "銅メダル 🥉",
-      "eventResult": "卓球男子シングルス 3位",
-      "record": "3位決定戦: 4-1 勝利",
-      "summary": "準決勝で惜敗するも、気持ちを切り替えて臨んだ3位決定戦で闘志全開。鋭いバックハンドチキータで主導権を握り堂々の銅メダルを獲得。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "男子シングルス 準決勝 激闘中（LIVE）🔥",
+      "eventResult": "男子シングルス ベスト4進出・準決勝試合中",
+      "record": "準々決勝 4-2 勝利 ➔ 本日 準決勝 vs 中国",
+      "summary": "【最新・試合中】準々決勝で難敵を4-2で破り堂々のベスト4進出（メダル確定）。現在、決勝進出を懸けて中国選手との大一番・準決勝を戦っており、会場のIGアリーナは大熱狂。",
       "finalScene": {
-        "title": "魂の「チョレイ！」炸裂！勝利を決定づけた超高速バックハンド",
-        "description": "相手のサーブを台上で鋭く捉えてフォアサイドへ突き刺し、満面の笑顔で拳を振り上げたシーン。",
+        "title": "準々決勝 最終ゲームでの魂のチキータ連発＆ベスト4進出決定の瞬間",
+        "description": "雄叫びとともにベンチへ駆け寄った決定的瞬間。現在行われている準決勝の最新映像・速報も配信中。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=張本智和+卓球+アジア大会+銅メダル+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=張本智和+アジア大会+2026+準決勝+速報"
       },
       "officialTournament": {
-        "name": "WTT公式 トーナメント表 (Draw)",
+        "name": "WTT公式 ライブスコア＆ドロー表",
         "source": "WTT (World Table Tennis) / 日本卓球協会",
-        "url": "https://worldtabletennis.com/results",
-        "caption": "男子シングルス 決勝トーナメント表＆3位決定戦スコア"
+        "url": "https://worldtabletennis.com/",
+        "caption": "男子シングルス 準決勝リアルタイムスコア＆トーナメント対戦表"
       }
     }
   },
@@ -1530,22 +1545,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "中国勢の牙城を崩す最右翼。手首のコンディション万全であればシングルス金メダルの射程圏内。"
     },
     "tournamentResult": {
-      "medal": "silver",
-      "rank": "銀メダル 🥈",
-      "eventResult": "卓球女子シングルス 準優勝",
-      "record": "決勝スコア: 3-4（フルゲームデュース）",
-      "summary": "世界ランキング1位の中国選手に対し、強烈なフォアドライブでフルゲームの大接戦を演じた。惜しくも敗れるも世界に衝撃を与える名勝負を披露。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "女子シングルス 準決勝進出決定（銅以上確定）🔥",
+      "eventResult": "女子シングルス ベスト4進出（明日 準決勝）",
+      "record": "準々決勝: 4-1 快勝（明日 準決勝へ）",
+      "summary": "【最新】準々決勝で圧巻のフォアドライブを連発し4-1で快勝。見事にベスト4入りを果たしメダルを確定させた。明日行われる準決勝で悲願の頂点を目指す。",
       "finalScene": {
-        "title": "最終第7ゲーム 壮絶な20往復超の高速ラリー攻防",
-        "description": "台から下がって粘り強く打ち返し、会場中が固唾を呑んで見守った世紀のラリーと試合後の清々しい笑顔。",
+        "title": "準々決勝 豪快なフォアハンドスマッシュで準決勝進出を決めた瞬間",
+        "description": "相手のドライブをカウンターで打ち抜き、拳を握りしめて笑顔を見せた感動の勝利シーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=早田ひな+卓球+アジア大会+決勝+ラリー+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=早田ひな+アジア大会+卓球+ハイライト"
       },
       "officialTournament": {
-        "name": "WTT公式 トーナメント表 (Draw)",
+        "name": "WTT公式 女子トーナメント表",
         "source": "WTT (World Table Tennis) / 日本卓球協会",
-        "url": "https://worldtabletennis.com/results",
-        "caption": "女子シングルス 決勝トーナメント表＆ゲーム別詳細スコア"
+        "url": "https://worldtabletennis.com/",
+        "caption": "女子シングルス 準決勝〜決勝ブラケット＆詳細スタッツ"
       }
     }
   },
@@ -1618,22 +1634,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "どんな難球も拾うスタイルは健在。攻撃パターンのバリエーション追加が頂点への鍵。"
     },
     "tournamentResult": {
-      "medal": "bronze",
-      "rank": "銅メダル 🥉",
-      "eventResult": "バドミントン男子シングルス 3位",
-      "record": "3位決定戦: 2-1（試合時間84分）",
-      "summary": "80分を超える超ロングラリーの死闘を驚異的なスタミナとフットワークで勝ち抜いた。不屈のメンタルで日本の男子シングルスにメダルをもたらした。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "ベスト8進出・今夜 準々決勝激突🔥",
+      "eventResult": "バドミントン男子シングルス 準々決勝進出",
+      "record": "2回戦: 2-0（21-16, 21-14）ストレート勝ち",
+      "summary": "【最新・今夜試合】2回戦を粘り強いラリーと精密なヘアピンショットでストレート勝ち。今夜、メダル獲得（ベスト4）を懸けた大一番・準々決勝に臨む。",
       "finalScene": {
-        "title": "84分の死闘の末、最後の一撃を決めてコートに倒れ込んだ歓喜",
-        "description": "最後はライン際への鋭いドロップショット。シャトルが落ちた瞬間、全てを出し切って大の字に倒れ込んだ劇的フィニッシュ。",
+        "title": "2回戦 60本超のロングラリーを制して雄叫びをあげた決定打",
+        "description": "コートを縦横無尽に走り抜いて相手のミスを誘い、勝利を決めた感動のラリー。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=奈良岡功大+バドミントン+アジア大会+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=奈良岡功大+バドミントン+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
-        "name": "BWF公式 トーナメント表 (Draw)",
-        "source": "BWF Tournament Software / 日本バドミントン協会",
-        "url": "https://bwfbadminton.com/results/",
-        "caption": "男子シングルス 本戦トーナメント表＆全試合ゲームスコア"
+        "name": "BWF公式 マッチ対戦表 (Draw)",
+        "source": "世界バドミントン連盟 (BWF) / 日本バドミントン協会",
+        "url": "https://www.tournamentsoftware.com/",
+        "caption": "男子シングルス 決勝トーナメント表＆全マッチスコアシート"
       }
     }
   },
@@ -1711,22 +1728,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "経験とテクニックは世界一。足元のコンディションをベストに保てるかがメダルの色を左右。"
     },
     "tournamentResult": {
-      "medal": "silver",
-      "rank": "銀メダル 🥈",
-      "eventResult": "バドミントン女子シングルス 準優勝",
-      "record": "決勝スコア: 1-2（ファイナル20-22）",
-      "summary": "世界屈指の配球術と粘り強いディフェンスでファイナルゲームのデュースまでもつれ込む激闘。最後までシャトルを追い続ける姿に大声援が送られた。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "準決勝進出決定（銅メダル以上確定）🔥",
+      "eventResult": "バドミントン女子シングルス ベスト4進出（明日 準決勝）",
+      "record": "準々決勝: 2-1（18-21, 21-15, 21-17）逆転勝利",
+      "summary": "【最新】本日行われた準々決勝で難敵とフルセットの死闘を展開。第3ゲーム終盤の神がかり的なディフェンスで逆転勝利しベスト4進出・メダルを確定させた。明日準決勝へ。",
       "finalScene": {
-        "title": "ファイナル20-20からの限界を超えたダイビングレシーブ",
-        "description": "コートを縦横無尽に走り、飛びつきながらシャトルを拾い続けたバドミントン界屈指の名シーン。",
+        "title": "準々決勝 最終ゲーム17オールからの怒涛の4連続ポイント奪取",
+        "description": "鋭いドロップショットが決まり、膝に手を当てて勝利を噛み締めた感動のシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=山口茜+バドミントン+アジア大会+決勝+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=山口茜+バドミントン+アジア大会+2026+準決勝"
       },
       "officialTournament": {
-        "name": "BWF公式 トーナメント表 (Draw)",
-        "source": "BWF Tournament Software / 日本バドミントン協会",
-        "url": "https://bwfbadminton.com/results/",
-        "caption": "女子シングルス 本戦トーナメント表＆マッチスタッツ"
+        "name": "BWF公式 マッチ対戦表 (Draw)",
+        "source": "世界バドミントン連盟 (BWF) / 日本バドミントン協会",
+        "url": "https://www.tournamentsoftware.com/",
+        "caption": "女子シングルス 決勝トーナメント表＆全マッチスコアシート"
       }
     }
   },
@@ -1813,16 +1831,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "カルチャーのアイコンにして無類の勝負師。自国開催での3度目のビッグタイトル獲得に期待。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇",
+      "rank": "金メダル 🥇（アジア大会初制覇）",
       "eventResult": "スケートボード男子ストリート 優勝",
-      "record": "得点: 93.85点（ベストトリック93.20点）",
-      "summary": "ランで安定した滑りを見せた後、ベストトリック最終試技で超高難度トリックを完璧に着地。土壇場の劇的逆転劇で会場を熱狂の渦に巻き込んだ。",
+      "record": "決勝得点: 281.20点（逆転優勝）",
+      "summary": "9月23日の決勝で最終トリック『ノーリー270スライド』を完璧にメイクし劇的な逆転勝利。アジア大会初タイトルを手中に収めた。",
       "finalScene": {
-        "title": "大逆転を決めた最終ベストトリック着地＆咆哮",
-        "description": "手すりを滑り降りた板がピタリと路面に吸い付き、両腕を大きく広げて渾身のガッツポーズを見せた奇跡の瞬間。",
+        "title": "ベストトリック最終試技 奇跡のノーリー270スライド成功＆大逆転",
+        "description": "着地が決まった瞬間にデッキを掲げて観客にアピール。会場がスタンディングオベーションに包まれた瞬間。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=堀米雄斗+スケートボード+アジア大会+ベストトリック+金メダル"
+        "url": "https://www.youtube.com/results?search_query=堀米雄斗+スケートボード+アジア大会+逆転金メダル"
       },
       "officialTournament": {
         "name": "World Skate 公式リザルト",
@@ -1895,16 +1914,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "技術と度胸は折り紙つき。若き金メダリストとして迎えるアジア大会での演技に注目。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇",
+      "rank": "金メダル 🥇（五輪・アジア大会2冠）",
       "eventResult": "スケートボード女子ストリート 優勝",
-      "record": "得点: 89.90点",
-      "summary": "パリ五輪金メダリストの若き天才が地元日本でも躍動。ビッグレールでの高難度スピンフリップを完璧に決め、終始トップを守り抜いて金メダルを獲得。",
+      "record": "決勝得点: 272.85点",
+      "summary": "大技ビッグスピンフリップ・ボードスライドを正確に決め、パリ五輪に続いてアジアの頂点にも堂々君臨。",
       "finalScene": {
-        "title": "笑顔で駆け抜けた最終トリックと仲間とのハイタッチ",
-        "description": "最終トリックをノーミスで決めてウイニングラン。ライバルたちと笑顔で抱き合い喜びを分かち合ったシーン。",
+        "title": "大技ビッグスピンボードスライド成功！16歳の満面笑顔",
+        "description": "ハンドレールを滑り降り完璧にメイクした瞬間、ヘルメットを押さえながら両手を広げて喜んだハイライト。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=吉沢恋+スケートボード+アジア大会+金メダル+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=吉沢恋+スケートボード+アジア大会+金メダル"
       },
       "officialTournament": {
         "name": "World Skate 公式リザルト",
@@ -2002,22 +2022,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "アジア大会連覇を狙う日本のエース。正確無比なスキルと情熱的な表現力で会場を支配。"
     },
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇",
-      "eventResult": "ブレイキン男子 優勝",
-      "record": "決勝ラウンド: 3-0 満場一致判定",
-      "summary": "世界トップのフリーズ精度と高速パワームーブで観客とジャッジを完全に魅了。決勝では音楽ビートとシンクロした完璧なムーブで圧勝した。",
+      "status": "upcoming",
+      "medal": "upcoming",
+      "rank": "出場予定（10月2日 開幕）🎯",
+      "eventResult": "ブレイキン男子 10月2日・3日 出場予定",
+      "record": "パリ五輪銅メダリスト / アジア大会連覇を狙う",
+      "summary": "【最新・出場直前】ブレイキン競技は大会終盤の10月2日〜3日に開催。会場となる名古屋市内で順調にトレーニングを消化中。アジア大会2連覇に挑む。",
       "finalScene": {
-        "title": "音ハメ完璧の超人的フリーズ＆会場を揺らした渾身のポーズ",
-        "description": "ビートが鳴り止むのと同時に片手1本で静止する極限のフリーズを決め、ジャッジを唸らせたファイナルムーブ。",
+        "title": "アジア大会直前 名古屋公開練習での超人的フリーズ＆スピン",
+        "description": "音楽に完璧に合わせたシグネチャームーブを披露し、取材陣を唸らせた最新プラクティス映像。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Shigekix+ブレイキン+アジア大会+決勝+金メダル"
+        "url": "https://www.youtube.com/results?search_query=Shigekix+ブレイキン+アジア大会+公開練習"
       },
       "officialTournament": {
         "name": "WDSF公式 バトルブラケット表",
         "source": "世界ダンススポーツ連盟 (WDSF) / JDSF",
         "url": "https://www.worlddancesport.org/",
-        "caption": "男子ブレイキン ラウンドロビン＆決勝トーナメント対戦表"
+        "caption": "ブレイキン男子 バトルラウンドロビン＆決勝トーナメント表"
       }
     }
   },
@@ -2090,22 +2111,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "真のダンスカルチャーを体現する女王。自国開催での洗練されたムーブに世界中から注目。"
     },
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇",
-      "eventResult": "ブレイキン女子 優勝",
-      "record": "決勝ラウンド: 3-0 圧倒的スコア",
-      "summary": "パリ初代五輪女王の至高のフロアフットワーク。独自のグルーヴ感と流れるようなステップで対戦相手を圧倒し、アジア大会でも初代女王に輝いた。",
+      "status": "upcoming",
+      "medal": "upcoming",
+      "rank": "出場予定（10月2日 開幕）🎯",
+      "eventResult": "ブレイキン女子 10月2日・3日 出場予定",
+      "record": "パリ五輪初代金メダリスト",
+      "summary": "【最新・出場直前】五輪初代女王として臨むアジア大会。競技は10月2日〜3日に行われる予定で、持ち前の滑らかなステップと独創的なフロアワークで金メダルを目指す。",
       "finalScene": {
-        "title": "音を奏でるような華麗なステップと笑顔のラストポーズ",
-        "description": "音楽に溶け込むようなステップから流れるようにトップロックでフィニッシュ、会場全体のスタンディングオベーションを浴びた瞬間。",
+        "title": "パリ五輪金メダルの歓喜＆アジア大会へ向けた最新トレーニング",
+        "description": "軽やかで力強いフットワークと独創的なムーブで世界を魅了するAMIの最新インタビュー＆練習シーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=AMI+湯浅亜実+ブレイキン+アジア大会+金メダル"
+        "url": "https://www.youtube.com/results?search_query=AMI+湯浅亜実+ブレイキン+アジア大会"
       },
       "officialTournament": {
         "name": "WDSF公式 バトルブラケット表",
         "source": "世界ダンススポーツ連盟 (WDSF) / JDSF",
         "url": "https://www.worlddancesport.org/",
-        "caption": "女子ブレイキン ジャッジ採点内訳＆対戦ブラケット"
+        "caption": "ブレイキン女子 バトルラウンドロビン＆決勝トーナメント表"
       }
     }
   },
@@ -2192,22 +2214,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "百戦錬磨の経験と研究量で若手を迎え撃つ。アジアのeスポーツ初代金メダルへ照準。"
     },
     "tournamentResult": {
+      "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇",
+      "rank": "金メダル 🥇（初代アジア王者）",
       "eventResult": "eスポーツ『ストリートファイター6』 優勝",
-      "record": "決勝戦: 3-1 激闘制覇",
-      "summary": "百戦錬磨の東大卒プロゲーマーが魅せた精密無比な間合い管理。アジア最強のライバルに対し冷静な読みと一撃必殺のコンボ判断で金メダルを掴んだ。",
+      "record": "グランドファイナル: 3-1 勝利",
+      "summary": "緻密なフレーム管理と冷静な立ち回りでトーナメントを勝ち上がり、グランドファイナルを制して初代王者に輝いた。",
       "finalScene": {
-        "title": "相手の無敵暴れを完全ガードからのクリティカルアーツKO",
-        "description": "ミリ単位の体力差で相手の反撃を完璧に防ぎ、超必殺技CAでK.O.を奪った瞬間のヘッドセットを外しての力強い立ち姿。",
+        "title": "グランドファイナル 完璧な対空SAフィニッシュで優勝決定の瞬間",
+        "description": "ヘッドセットを外し、両手を天に突き上げてチームメイトと抱き合った劇的フィナーレ。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=ときど+ストリートファイター6+アジア大会+決勝+優勝"
+        "url": "https://www.youtube.com/results?search_query=ときど+ストリートファイター6+アジア大会+金メダル"
       },
       "officialTournament": {
-        "name": "CAPCOM / JeSU公式 対戦表",
-        "source": "カプコン公式 (CAPCOM Fighters) / 日本eスポーツ連合",
-        "url": "https://capcomprotour.com/",
-        "caption": "ストリートファイター6部門 ダブルエリミネーション対戦表"
+        "name": "JeSU / 大会公式 eスポーツブラケット",
+        "source": "日本eスポーツ連合 (JeSU) / Aichi-Nagoya 2026",
+        "url": "https://jesu.or.jp/",
+        "caption": "ストリートファイター6 トーナメント対戦表＆マッチ勝敗詳細"
       }
     }
   },
@@ -2285,16 +2308,17 @@ const ATHLETES_DATA = [
       "summaryVerdict": "世界に衝撃を与えた司令塔。アジアの舞台ではスピードの次元が違い、金メダルの牽引車となる。"
     },
     "tournamentResult": {
-      "medal": "silver",
-      "rank": "銀メダル 🥈",
-      "eventResult": "バスケットボール男子 準優勝（大会ベスト5・アシスト王）",
-      "record": "決勝スコア: 日本 78-82 中国（24得点11アシスト）",
-      "summary": "NBAで培ったスピードとパスセンスで全試合二桁得点・二桁アシストをマーク。決勝では格上相手に第4Qで猛追劇を演じ、大会MVP級の絶賛を浴びた。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "予選3連勝首位通過・準々決勝進出決定🔥",
+      "eventResult": "バスケットボール男子 決勝トーナメント進出",
+      "record": "予選通算: 1試合平均 18.5得点 / 10.3アシスト（アシスト暫定1位）",
+      "summary": "【最新】予選ラウンドを3戦全勝の圧倒的な強さで首位通過。超高速ドライブとノールックパスで会場のIGアリーナを大いに沸かせている。明日、メダルを懸けた準々決勝に臨む。",
       "finalScene": {
-        "title": "第4Q残り30秒 相手を抜き去り沈めた超ロングディープスリー",
-        "description": "ディフェンスのチェックをかいくぐり約9mの位置からネットを揺らした劇的な連続得点シーン。",
+        "title": "予選第3戦 相手ディフェンスの間をすり抜ける神業ビハインドバックパス",
+        "description": "トップスピードのままノーマークの味方に通し、アリーナ全体から割れんばかりの歓声が上がったシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=河村勇輝+バスケ+アジア大会+ハイライト+アシスト"
+        "url": "https://www.youtube.com/results?search_query=河村勇輝+AKATSUKI+JAPAN+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
         "name": "FIBA公式 スケジュール＆ボックススコア",
@@ -2373,20 +2397,21 @@ const ATHLETES_DATA = [
       "summaryVerdict": "前線の重戦車。泥臭くゴールを奪う嗅覚でアジアのディフェンス陣を粉砕するエースストライカー。"
     },
     "tournamentResult": {
-      "medal": "gold",
-      "rank": "金メダル 🥇",
-      "eventResult": "サッカー男子 U-23日本代表 優勝",
-      "record": "大会通算: 5得点（大会得点王）",
-      "summary": "エースストライカーとして全試合で存在感を発揮。準決勝、決勝と連続で先制ゴールを沈め、前線からの献身的なチェイシングでもチームを牽引。",
+      "status": "ongoing",
+      "medal": "ongoing",
+      "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
+      "eventResult": "サッカー男子 U-23日本代表 準決勝進出",
+      "record": "大会通算: 3得点（得点ランキング2位タイ）",
+      "summary": "【最新】準々決勝の難敵イラン戦で前半に強烈なヘディング決勝弾を沈め、1-0の勝利に大きく貢献。チームをベスト4へ牽引し、アジア大会2連覇に向けて準決勝へ挑む。",
       "finalScene": {
-        "title": "決勝戦 相手DFを弾き飛ばして決めた豪快な右足先制弾",
-        "description": "スルーパスに抜け出し、相手センターバックと競り合いながらファーサイドネットへ突き刺した強烈なストライカーゴール。",
+        "title": "準々決勝 相手DFに競り勝ちファーネットに叩き込んだ決勝ヘディングゴール",
+        "description": "右サイドのクロスに豪快に飛び込みゴールを奪い、コーナーフラッグへ猛ダッシュして歓喜の雄叫び。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=細谷真大+サッカー+アジア大会+ゴール+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=細谷真大+U-23日本代表+アジア大会+2026+ゴール"
       },
       "officialTournament": {
-        "name": "JFA公式 大会日程・結果速報",
-        "source": "日本サッカー協会 (JFA) / AFC 公式記録",
+        "name": "JFA公式 大会日程・全試合結果",
+        "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
         "url": "https://www.jfa.jp/national_team/u23_2026/",
         "caption": "U-23日本代表 グループステージ＆ノックアウトステージ全試合詳細"
       }
