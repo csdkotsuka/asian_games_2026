@@ -270,4 +270,27 @@ document.addEventListener('DOMContentLoaded', () => {
       </a>
     </nav>
   `;
+
+  // ページトップに戻るボタン
+  const backToTopBtn = document.getElementById('backToTopBtn');
+  if (backToTopBtn) {
+    const handleScroll = () => {
+      if (window.scrollY > 280) {
+        backToTopBtn.classList.add('show');
+      } else {
+        backToTopBtn.classList.remove('show');
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    handleScroll();
+
+    backToTopBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
+  }
 });

@@ -43,6 +43,10 @@
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: var(--font-base);
   background-color: var(--color-bg-dark);
@@ -1407,3 +1411,91 @@ button {
     flex-direction: column;
   }
 }
+
+/* ========================================================
+   フローティング ページトップに戻るボタン
+   ======================================================== */
+.back-to-top-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  bottom: calc(24px + env(safe-area-inset-bottom, 0px));
+  right: calc(24px + env(safe-area-inset-right, 0px));
+  z-index: 990;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, rgba(22, 33, 62, 0.95), rgba(10, 16, 32, 0.95));
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1.5px solid var(--color-gold);
+  color: var(--color-gold);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.5), 0 0 10px rgba(229, 169, 60, 0.3);
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(16px);
+  transition: opacity 0.3s ease, transform 0.3s ease, background 0.2s ease, border-color 0.2s ease, visibility 0.3s;
+}
+
+.back-to-top-btn svg {
+  width: 20px;
+  height: 20px;
+  stroke: var(--color-gold);
+  stroke-width: 2.5;
+  transition: transform 0.2s ease;
+}
+
+.back-to-top-btn .top-label {
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  line-height: 1;
+  margin-top: 1px;
+}
+
+.back-to-top-btn:hover {
+  background: var(--color-gold);
+  color: #0b1326;
+  border-color: #fff;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(229, 169, 60, 0.5);
+}
+
+.back-to-top-btn:hover svg {
+  stroke: #0b1326;
+  transform: translateY(-2px);
+}
+
+.back-to-top-btn:hover .top-label {
+  color: #0b1326;
+}
+
+.back-to-top-btn.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+@media (max-width: 640px) {
+  .back-to-top-btn {
+    bottom: 18px;
+    right: 18px;
+    width: 48px;
+    height: 48px;
+  }
+  .back-to-top-btn svg {
+    width: 18px;
+    height: 18px;
+  }
+  .back-to-top-btn .top-label {
+    font-size: 0.6rem;
+  }
+}
+
